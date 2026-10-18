@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Smartphone Recommendation</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+
+        <header>
+            <h1>Smartphone Finder</h1>
+            <p>Find the right smartphone for your budget and preferences.</p>
+        </header>
+
+        <section class="card">
+            <h2>Your Preferences</h2>
+
+            <form action="/recommend" method="POST">
+                <div class="form-grid">
+
+                    <div class="form-group">
+                        <label for="budget">Maximum Budget (₹)</label>
+                        <input type="number" id="budget" name="budget"
+                               min="1" placeholder="e.g. 20000" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="brand">Preferred Brand</label>
+                        <select id="brand" name="brand">
+                            <option value="">Any Brand</option>
+                            <option value="Samsung">Samsung</option>
+                            <option value="Apple">Apple</option>
+                            <option value="Xiaomi">Xiaomi</option>
+                            <option value="Realme">Realme</option>
+                            <option value="Vivo">Vivo</option>
+                            <option value="Oppo">Oppo</option>
+                            <option value="OnePlus">OnePlus</option>
+                            <option value="Motorola">Motorola</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="has_5g">5G Support</label>
+                        <select id="has_5g" name="has_5g">
+                            <option value="">Any</option>
+                            <option value="Yes">Yes</option>
+                            <option value="No">No</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="min_ram">Minimum RAM (GB)</label>
+                        <select id="min_ram" name="min_ram">
+                            <option value="">Any</option>
+                            <option value="4">4 GB</option>
+                            <option value="6">6 GB</option>
+                            <option value="8">8 GB</option>
+                            <option value="12">12 GB</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="min_battery">Minimum Battery (mAh)</label>
+                        <select id="min_battery" name="min_battery">
+                            <option value="">Any</option>
+                            <option value="4000">4000 mAh</option>
+                            <option value="4500">4500 mAh</option>
+                            <option value="5000">5000 mAh</option>
+                            <option value="6000">6000 mAh</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="min_rating">Minimum Rating</label>
+                        <select id="min_rating" name="min_rating">
+                            <option value="">Any</option>
+                            <option value="3">3.0+</option>
+                            <option value="3.5">3.5+</option>
+                            <option value="4">4.0+</option>
+                            <option value="4.5">4.5+</option>
+                        </select>
+                    </div>
+
+                </div>
+
+                <button type="submit">Find Smartphones</button>
+            </form>
+        </section>
+
+        {% if phones is defined %}
+        <section class="card">
+            <h2>Recommended Smartphones</h2>
+
+            {% if phones %}
+            <table class="results-table">
+                <thead>
+                    <tr>
+                        <th>Brand</th>
+                        <th>Model</th>
+                        <th>Price (₹)</th>
+                        <th>Rating</th>
+                        <th>5G</th>
+                        <th>RAM (GB)</th>
+                        <th>Storage (GB)</th>
+                        <th>Battery (mAh)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for phone in phones %}
+                    <tr>
+                        <td>{{ phone.brand_name }}</td>
+                        <td>{{ phone.model_name }}</td>
+                        <td>{{ phone.price }}</td>
+                        <td>{{ phone.rating }}</td>
+                        <td>{{ phone.has_5g }}</td>
+                        <td>{{ phone['ram_capacity(GB)'] }}</td>
+                        <td>{{ phone['rom_capacity(GB)'] }}</td>
+                        <td>{{ phone['battery_capacity(mAh)'] }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% else %}
+            <p class="message">No smartphones match your preferences. Try adjusting your filters.</p>
+            {% endif %}
+        </section>
+        {% endif %}
+
+    </div>
+</body>
+</html>

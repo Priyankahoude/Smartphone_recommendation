@@ -1,0 +1,834 @@
+brand_name,model_name,price,rating,has_5g,has_nfc,has_ir_blaster,processor_name,processor_brand,processor_cores,processor_speed(GHz),battery_capacity(mAh),has_FC,rating_FC(W),ram_capacity(GB),rom_capacity(GB),display_size,display_resolution,display_refreshrate(Hz),display_design,rear_camera_resol,rear_primary_resol(MP),number_rear_camera,front_camera_resol,number_front_cameras,android_ver,total_cameras,pricewise_cat,Ratingwise_cat
+oppo,Oppo F25 Pro 5G,23999,85,1,0,0,Dimensity 7050,dimensity,8,2.6,5000,1,67,8,128,6.7,1080x2412,120,Punch Hole,64MP + 8MP + 2MP,64,3,32,1,Android v14,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 13 Pro 5G,24085,84,1,0,1,Snapdragon 7s Gen 2,snapdragon,8,2.4,5100,1,67,8,128,6.67,1220x2712,120,Punch Hole,200MP + 8MP + 2MP,200,3,16,1,Android v13,4,Lower-MidRange,Very Good
+motorola,Motorola Moto G34 5G ,11999,77,1,0,0,Snapdragon 695,snapdragon,8,2.2,5000,1,18,8,128,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,2,16,1,Android v14,3,Budget,Good
+oneplus,OnePlus 12R,39156,85,1,1,1,Snapdragon 8 Gen2,snapdragon,8,3.2,5500,1,100,8,128,6.78,1264x2780,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+oppo,OPPO Reno 11,27990,88,1,1,1,Dimensity 7050,dimensity,8,2.6,5000,1,67,8,128,6.7,1080x2412,120,Punch Hole,50MP + 32MP + 8MP,50,3,32,1,Android v14,4,Upper-MidRange,Very Good
+oneplus,OnePlus Nord CE 3 5G,23238,84,1,1,1,Snapdragon  782G,snapdragon,8,2.7,5000,1,80,8,128,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Lower-MidRange,Very Good
+iqoo,iQOO Neo 9 Pro 5G,36999,83,1,0,1,Snapdragon 8 Gen2,snapdragon,8,3.2,5160,1,120,8,256,6.78,1260x2800,144,Punch Hole,50MP + 8MP,50,2,16,1,Android v13,3,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 13 5G,16877,81,1,0,1,Dimensity 6080,dimensity,8,2.4,5000,1,33,6,128,6.67,1080x2400,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v13,4,Lower-MidRange,Very Good
+realme,Realme 12 Pro 5G,23999,82,1,0,0,Snapdragon 6 Gen1,snapdragon,8,2.2,5000,1,67,8,128,6.7,1080x2412,120,Punch Hole,50MP + 32MP + 8MP,50,3,16,1,Android v13,4,Lower-MidRange,Very Good
+motorola,Motorola Edge 40 Neo,22999,84,1,1,0,Dimensity 7030,dimensity,8,2.5,5000,1,68,8,128,6.55,1080x2400,144,Punch Hole,50MP + 13MP,50,2,32,1,Android v13,3,Lower-MidRange,Very Good
+vivo,Vivo Y200e 5G,19999,79,1,0,0,Snapdragon 4 Gen2,snapdragon,8,2.2,5000,1,44,6,128,6.67,1080x2400,120,Punch Hole,50MP + 2MP,50,2,16,1,Android v14,3,Lower-MidRange,Good
+oneplus,OnePlus Nord CE 3 Lite 5G,17595,85,1,0,0,Snapdragon 695 5G,snapdragon,8,2.2,5000,1,67,8,128,6.72,1080x2400,120,Punch Hole,108MP + 2MP + 2MP,108,3,16,1,Android v13,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy F54,24420,89,1,1,0,Exynos 1380,exynos,8,2.4,6000,1,25,8,256,6.7,1080x2408,120,Punch Hole,108MP + 8MP + 2MP,108,3,32,1,Android v13,4,Lower-MidRange,Very Good
+motorola,Motorola Moto G54 5G,13999,84,1,0,0,Dimensity 7020,dimensity,8,2.2,6000,1,33,8,128,6.5,1080x2400,120,Punch Hole,50MP + 8MP,50,2,16,1,Android v13,3,Budget,Very Good
+samsung,Samsung Galaxy S24 Ultra,109395,95,1,1,0,Snapdragon 8 Gen3,snapdragon,8,3.3,5000,1,45,12,256,6.8,1440x3120,120,Punch Hole,200MP,200,4,12,1,Android v14,5,Flagship,Excellent
+xiaomi,Xiaomi Redmi Note 13 Pro Plus,31639,87,1,1,1,Dimensity 7200 Ultra,dimensity,8,2.8,5000,1,120,8,256,6.67,1220x2712,120,Punch Hole,200MP + 8MP + 2MP,200,3,16,1,Android v13,4,Upper-MidRange,Very Good
+motorola,Motorola Moto G54 5G ,15999,85,1,0,0,Dimensity 7020,dimensity,8,2.2,6000,1,33,12,256,6.5,1080x2400,120,Punch Hole,50MP + 8MP,50,2,16,1,Android v13,3,Lower-MidRange,Very Good
+realme,Realme Narzo 60 5G,14999,82,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,33,8,128,6.43,1080x2400,90,Punch Hole,64MP + 2MP,64,2,16,1,Android v13,3,Budget,Very Good
+vivo,Vivo V29,31300,84,1,0,0,Snapdragon 778G,snapdragon,8,2.4,4600,1,80,8,128,6.78,1260x2800,120,Punch Hole,50MP + 8MP + 2MP,50,3,50,1,Android v13,4,Upper-MidRange,Very Good
+realme,Realme 12 Pro Plus,28695,85,1,0,0,Snapdragon 7s Gen2,snapdragon,8,2.4,5000,1,67,8,128,6.7,1080x2412,120,Punch Hole,64MP + 50MP + 8MP,64,3,32,1,Android v14,4,Upper-MidRange,Very Good
+realme,Realme C55 ,6499,75,0,0,0,Helio G88,helio,8,2,5000,1,33,6,64,6.72,1080x2400,90,Punch Hole,64MP + 2MP,64,2,8,1,Android v13,3,Budget,Good
+iqoo,iQOO Z7s 5G,13999,80,1,0,0,Snapdragon 695,snapdragon,8,2.2,4500,1,44,6,128,6.38,1080x2388,90,Water Drop Notch,64MP + 2MP,64,2,16,1,Android v13,3,Budget,Very Good
+samsung,Samsung Galaxy M14 ,11795,79,1,0,0,Exynos 1330,exynos,8,2.4,6000,1,25,6,128,6.6,1080x2408,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,13,1,Android v13,4,Budget,Good
+vivo,Vivo T2 Pro 5G,23999,81,1,0,0,Dimensity 7200,dimensity,8,2.8,4600,1,66,8,128,6.78,1080x2400,120,Punch Hole,64MP + 2MP,64,2,16,1,Android v13,3,Lower-MidRange,Very Good
+infinix,Infinix Note 30 5G ,14999,87,1,1,0,Dimensity 6080,dimensity,8,2.4,5000,1,45,8,256,6.78,1080x2460,120,Punch Hole,108MP + 2MP,108,3,16,1,Android v13,4,Budget,Very Good
+motorola,Motorola Edge 40 5G,26999,87,1,1,0,Dimensity 8020,dimensity,8,2.6,4400,1,68,8,256,6.55,1080x2400,144,Punch Hole,50MP + 13MP,50,2,32,1,Android v13,3,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 12 5G,11159,77,1,0,1,Snapdragon 4 Gen 1,snapdragon,8,2,5000,1,33,4,128,6.67,1080x2400,120,Punch Hole,48MP + 8MP + 2MP,48,3,13,1,Android v12,4,Budget,Good
+motorola,Motorola Moto G84 5G,17999,86,1,1,0,Snapdragon 695,snapdragon,8,2.2,5000,1,30,12,256,6.55,1080x2400,120,Punch Hole,50MP + 8MP,50,2,16,1,Android v13,3,Lower-MidRange,Very Good
+apple,Apple iPhone 15,70990,83,1,1,0,Bionic  A16,bionic,6,3.46,3349,1,39,6,128,6.1,1179x2556,120,Punch Hole,48MP + 12MP,48,2,12,1,iOS v17,3,Sub-Flagship,Very Good
+xiaomi,Xiaomi Redmi 12 5G ,14999,80,1,0,1,Snapdragon 4 Gen2,snapdragon,8,2.2,5000,1,18,8,256,6.79,1080x2460,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Very Good
+honor,Honor X9B,24998,84,1,1,1,Snapdragon 6 Gen1,snapdragon,8,2.2,5800,1,35,8,256,6.78,1220x2652,120,Punch Hole,108MP + 5MP + 2MP,108,3,16,1,Android v13,4,Lower-MidRange,Very Good
+oneplus,OnePlus Nord 3 5G,28068,85,1,1,1,Dimensity 9000,dimensity,8,3.05,5000,1,80,8,128,6.74,1240x2772,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy A34 5G,22999,83,1,1,0,Dimensity 1080,dimensity,8,2.6,5000,1,25,6,128,6.6,1080x2340,120,Water Drop Notch,48MP + 8MP + 5MP,48,3,13,1,Android v13,4,Lower-MidRange,Very Good
+oppo,OPPO Reno 11 Pro 5G,38499,88,1,1,1,Dimensity 8200,dimensity,8,3.1,4600,1,80,12,256,6.7,1080x2412,120,Punch Hole,50MP + 32MP + 8MP,50,3,32,1,Android v13,4,Upper-MidRange,Very Good
+apple,Apple iPhone 14,58999,80,1,1,0,Bionic A15,bionic,6,3.22,3279,1,39,6,128,6.1,1170x2532,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v16,3,Premium,Very Good
+oneplus,OnePlus 12R ,45188,87,1,1,1,Snapdragon 8 Gen2,snapdragon,8,3.2,5500,1,100,16,256,6.78,1264x2780,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Premium,Very Good
+vivo,Vivo T2x 5G ,12999,78,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,18,6,128,6.58,1080x2408,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+oneplus,OnePlus Nord CE 3 Lite 5G ,19515,86,1,0,0,Snapdragon 695 5G,snapdragon,8,2.2,5000,1,67,8,256,6.72,1080x2400,120,Punch Hole,108MP + 2MP + 2MP,108,3,16,1,Android v13,4,Lower-MidRange,Very Good
+poco,Poco X6 Pro 5G,25999,84,1,1,1,Dimensity 8300 Ultra,dimensity,8,3.35,5000,1,67,8,256,6.67,1220x2712,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+motorola,Motorola Moto G04,6999,65,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,15,4,64,6.56,720x1600,90,Punch Hole,50MP + 2MP,50,3,5,1,Android v14,4,Budget,Average
+samsung,Samsung Galaxy S21 FE 5G,31478,87,1,1,0,Exynos  2100,exynos,8,2.9,4500,1,25,8,128,6.4,1080x2340,120,Punch Hole,12MP + 12MP + 8MP,12,3,32,1,Android v11,4,Upper-MidRange,Very Good
+realme,Realme C67 5G,10882,75,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,33,4,128,6.72,1080x2400,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+motorola,Motorola Edge 40 Neo ,24999,85,1,1,0,Dimensity 7030,dimensity,8,2.5,5000,1,68,12,256,6.55,1080x2400,144,Punch Hole,50MP + 13MP,50,2,32,1,Android v13,3,Lower-MidRange,Very Good
+samsung,Samsung Galaxy M34 5G,15770,82,1,1,0,Exynos 1280,exynos,8,2.4,6000,1,25,6,128,6.5,1080x2340,120,Water Drop Notch,50MP + 8MP + 2MP,50,3,13,1,Android v13,4,Lower-MidRange,Very Good
+oneplus,OnePlus 12 5G,64199,93,1,1,1,Snapdragon 8 Gen3,snapdragon,8,3.3,5400,1,100,12,256,6.82,1440x3168,120,Punch Hole,64MP + 50MP + 48MP,64,3,32,1,Android v14,4,Sub-Flagship,Excellent
+iqoo,iQOO Z7 Pro 5G,23493,80,1,0,0,Dimensity 7200,dimensity,8,2.8,4600,1,66,8,128,6.78,1080x2400,120,Punch Hole,64MP + 2MP,64,2,16,1,Android v13,3,Lower-MidRange,Very Good
+samsung,Samsung Galaxy A15 5G,19304,81,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,25,8,128,6.5,1080x2340,90,Water Drop Notch,50MP + 5MP + 2MP,50,3,13,1,Android v14,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy S24 5G,67210,89,1,1,0,Exynos 2400,exynos,10,3.2,4000,1,25,8,256,6.2,1080x2340,120,Punch Hole,50MP + 12MP + 10MP,50,3,12,1,Android v13,4,Sub-Flagship,Very Good
+nothing,Nothing Phone 2 ,36999,89,1,1,0,Snapdragon 8+ Gen1,snapdragon,8,3.2,4700,1,45,12,256,6.7,1080x2412,120,Punch Hole,50MP + 50MP,50,2,32,1,Android v13,3,Upper-MidRange,Very Good
+samsung,Samsung Galaxy M14,10885,77,1,0,0,Exynos 1330,exynos,8,2.4,6000,1,25,4,128,6.6,1080x2408,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,13,1,Android v13,4,Budget,Good
+poco,Poco M6 Pro 5G ,10997,77,1,0,1,Snapdragon 4 Gen2,snapdragon,8,2.2,5000,1,18,6,128,6.79,1080x2460,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+motorola,Motorola Moto G34 5G,10999,74,1,0,0,Snapdragon 695,snapdragon,8,2.2,5000,1,18,4,128,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,2,16,1,Android v14,3,Budget,Good
+vivo,Vivo Y200 5G,21999,81,1,0,0,Snapdragon 4 Gen1,snapdragon,8,2,4800,1,44,8,128,6.67,1080x2400,120,Punch Hole,64MP + 2MP,64,2,16,1,Android v13,3,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 13 5G ,18820,84,1,0,1,Dimensity 6080,dimensity,8,2.4,5000,1,33,8,256,6.67,1080x2400,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v13,4,Lower-MidRange,Very Good
+vivo,Vivo V29e,25880,85,1,1,0,Snapdragon  695,snapdragon,8,2.2,5000,1,44,8,128,6.78,1080x2400,120,Punch Hole,64MP + 8MP,64,2,50,1,Android v13,3,Upper-MidRange,Very Good
+samsung,Samsung Galaxy F14 5G ,12347,71,1,0,0,Exynos 1330,exynos,8,2.3,6000,1,25,6,128,6.6,2408x1080,120,Punch Hole,50MP + 2MP,50,2,13,1,Android v13,3,Budget,Good
+realme,Realme 12 Pro 5G ,23868,82,1,0,0,Snapdragon 6 Gen1,snapdragon,8,2.2,5000,1,67,8,256,6.7,1080x2412,120,Punch Hole,50MP + 32MP + 8MP,50,3,16,1,Android v13,4,Lower-MidRange,Very Good
+realme,Realme 12 Pro Plus 5G ,30450,86,1,0,0,Snapdragon 7s Gen2,snapdragon,8,2.4,5000,1,67,12,256,6.7,1080x2412,120,Punch Hole,64MP + 50MP + 8MP,64,3,32,1,Android v14,4,Upper-MidRange,Very Good
+honor,Honor 90 5G,25980,89,1,1,0,Snapdragon 7 Gen 1 Accelerated Edition,snapdragon,8,2.36,5000,1,66,8,256,6.7,1200x2664,120,Punch Hole,200MP + 12MP + 2MP,200,3,50,1,Android v13,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi 13C 5G,10999,74,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,18,4,128,6.74,720x1600,90,Water Drop Notch,50MP + Depth Sensor,50,2,5,1,Android v13,3,Budget,Good
+realme,Realme 11x 5G,12999,77,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,33,6,128,6.72,1080x2400,120,Punch Hole,64MP + 2MP,64,2,8,1,Android v13,3,Budget,Good
+xiaomi,Xiaomi Redmi Note 12 4G,8799,79,0,0,1,Snapdragon 685,snapdragon,8,2.8,5000,1,33,6,64,6.67,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,13,1,Android v13,4,Budget,Good
+poco,Poco X6 5G,20999,81,1,0,1,Snapdragon 7s Gen 2,snapdragon,8,2.4,5100,1,67,8,256,6.67,1220x2712,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Lower-MidRange,Very Good
+vivo,Vivo Y16 ,6159,69,0,0,0,Helio P35,helio,8,2.3,5000,1,10,4,128,6.51,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v12,3,Budget,Average
+vivo,Vivo Y200e 5G ,19990,81,1,0,0,Snapdragon 4 Gen2,snapdragon,8,2.2,5000,1,44,8,128,6.67,1080x2400,120,Punch Hole,50MP + 2MP,50,2,16,1,Android v14,3,Lower-MidRange,Very Good
+realme,Realme 11 5G ,17574,84,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,67,8,256,6.72,1080x2400,120,Punch Hole,108MP + 2MP,108,2,16,1,Android v13,3,Lower-MidRange,Very Good
+oneplus,OnePlus Nord CE 3 ,27999,85,1,1,1,Snapdragon  782G,snapdragon,8,2.7,5000,1,80,12,256,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy S23 FE 5G,44170,85,1,1,0,Exynos 2200,exynos,8,2.8,4500,1,25,8,128,6.4,1080x2340,120,Punch Hole,50MP + 12MP + 8MP,50,3,10,1,Android v13,4,Premium,Very Good
+iqoo,iQOO Neo 9 Pro 5G ,38999,84,1,0,1,Snapdragon 8 Gen2,snapdragon,8,3.2,5160,1,120,12,256,6.78,1260x2800,144,Punch Hole,50MP + 8MP,50,2,16,1,Android v13,3,Upper-MidRange,Very Good
+vivo,Vivo X100 5G,63999,91,1,1,1,Dimensity 9300,dimensity,8,3.25,5000,1,120,12,256,6.78,1260x2800,120,Punch Hole,64MP + 50MP + 50MP,64,3,32,1,Android v14,4,Sub-Flagship,Excellent
+vivo,Vivo T2 5G,15999,79,1,0,0,Snapdragon 695,snapdragon,8,2.2,4500,1,44,6,128,6.38,1080x2400,90,Water Drop Notch,64MP + 2MP,64,2,16,1,Android v13,3,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi 12 5G ,13499,77,1,0,1,Snapdragon 4 Gen2,snapdragon,8,2.2,5000,1,18,6,128,6.79,1080x2460,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+xiaomi,Xiaomi Redmi A3 ,9299,69,0,0,0,Helio G36,helio,8,2.2,5000,1,10,6,128,6.71,720x1650,90,Water Drop Notch,8MP,8,2,5,1,Android v13,3,Budget,Average
+iqoo,iQOO 12 5G,52999,89,1,1,1,Snapdragon 8 Gen3,snapdragon,8,3.3,5000,1,120,12,256,6.78,1260x2800,144,Punch Hole,64MP + 50MP + 50MP,64,3,16,1,Android v13,4,Premium,Very Good
+apple,Apple iPhone 15 Pro Max,148900,89,1,1,0,Bionic  A17 Pro,bionic,6,3.78,4422,1,39,8,256,6.7,1290x2796,120,Punch Hole,48MP + 12MP + 12MP,48,3,12,1,iOS v17,4,Flagship,Very Good
+samsung,Samsung Galaxy S22 5G,39900,86,1,1,0,Snapdragon  8 Gen1,snapdragon,8,3,3700,1,25,8,128,6.1,1080x2340,120,Punch Hole,50MP + 12MP + 10MP,50,3,10,1,Android v13,4,Upper-MidRange,Very Good
+infinix,Infinix Zero 30 5G ,22949,88,1,1,0,Dimensity 8020,dimensity,8,2.6,5000,1,68,12,256,6.78,1080x2400,144,Punch Hole,108MP + 13MP + 2MP,108,3,50,1,Android v13,4,Lower-MidRange,Very Good
+vivo,Vivo V29 Pro,38990,84,1,0,0,Dimensity  8200,dimensity,8,3.1,4600,1,80,8,256,6.78,1260x2800,120,Punch Hole,50MP + 12MP + 8MP,50,3,50,1,Android v13,4,Upper-MidRange,Very Good
+apple,Apple iPhone 13,51499,78,1,1,0,Bionic A15,bionic,6,3.22,3240,1,39,4,128,6.1,1170x2532,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v15,3,Premium,Good
+samsung,Samsung Galaxy S21 FE ,32977,88,1,1,0,Snapdragon 888,snapdragon,8,2.84,4500,1,25,8,256,6.4,1080x2340,120,Punch Hole,12MP + 12MP + 8MP,12,3,32,1,Android v11,4,Upper-MidRange,Very Good
+oppo,OPPO Reno 11 ,31999,89,1,1,1,Dimensity 7050,dimensity,8,2.6,5000,1,67,8,256,6.7,1080x2412,120,Punch Hole,50MP + 32MP + 8MP,50,3,32,1,Android v14,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 13 Pro 5G ,25899,85,1,0,1,Snapdragon 7s Gen 2,snapdragon,8,2.4,5100,1,67,8,256,6.67,1220x2712,120,Punch Hole,200MP + 8MP + 2MP,200,3,16,1,Android v13,4,Upper-MidRange,Very Good
+motorola,Motorola Moto G24 Power ,8999,78,0,0,0,Helio G85,helio,8,2,6000,1,30,8,128,6.6,720x1612,90,Punch Hole,50MP + 2MP,50,2,16,1,Android v14,3,Budget,Good
+samsung,Samsung Galaxy F14 5G,11249,68,1,0,0,Exynos 1330,exynos,8,2.3,6000,1,25,4,128,6.6,2408x1080,120,Punch Hole,50MP + 2MP,50,2,13,1,Android v13,3,Budget,Average
+samsung,Samsung Galaxy A54 5G,35144,88,1,1,0,Exynos 1380,exynos,8,2.4,5000,1,25,8,128,6.4,1080x2340,120,Punch Hole,50MP + 12MP + 5MP,50,3,32,1,Android v13,4,Upper-MidRange,Very Good
+poco,POCO X5 5G,14189,81,1,0,1,Snapdragon 695,snapdragon,8,2.2,5000,1,33,6,128,6.67,1080x2400,120,Punch Hole,48MP + 8MP + 2MP,48,3,13,1,Android v12,4,Budget,Very Good
+samsung,Samsung Galaxy A14 5G ,13599,82,1,0,0,Exynos 1330,exynos,8,2.4,5000,1,15,8,128,6.6,1080x2408,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,13,1,Android v13,4,Budget,Very Good
+samsung,Samsung Galaxy S23 Ultra 5G,89990,94,1,1,0,Snapdragon 8 Gen 2,snapdragon,8,3.36,5000,1,45,12,256,6.8,1440x3088,120,Punch Hole,200MP,200,4,12,1,Android v13,5,Flagship,Excellent
+motorola,Motorola Moto G04 ,7999,71,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,15,8,128,6.56,720x1600,90,Punch Hole,50MP + 2MP,50,3,5,1,Android v14,4,Budget,Good
+xiaomi,Xiaomi Redmi Note 12 ,12239,80,1,0,1,Snapdragon 4 Gen 1,snapdragon,8,2,5000,1,33,6,128,6.67,1080x2400,120,Punch Hole,48MP + 8MP + 2MP,48,3,13,1,Android v12,4,Budget,Very Good
+iqoo,iQOO Neo 7 Pro,30999,83,1,0,1,Snapdragon 8+ Gen1,snapdragon,8,3.2,5000,1,120,8,128,6.78,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy S23 5G,64999,88,1,1,0,Snapdragon 8 Gen 2,snapdragon,8,3.36,3900,1,25,8,128,6.1,1080x2340,120,Punch Hole,50MP + 12MP + 10MP,50,3,12,1,Android v13,4,Sub-Flagship,Very Good
+oneplus,OnePlus 11R 5G,36990,85,1,1,1,Snapdragon 8+ Gen1,snapdragon,8,3.2,5000,1,100,8,128,6.74,1240x2772,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+infinix,Infinix Hot 40i,9499,78,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,18,8,256,6.6,720x1612,90,Punch Hole,50MP + 0.08MP,50,2,32,1,Android v13,3,Budget,Good
+poco,Poco X6 Pro 5G ,27999,86,1,1,1,Dimensity 8300 Ultra,dimensity,8,3.35,5000,1,67,12,512,6.67,1220x2712,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+realme,Realme 11 Pro,23999,83,1,0,0,Dimensity 7050,dimensity,8,2.6,5000,1,67,8,128,6.7,1080x2412,120,Punch Hole,100MP + 2MP,100,2,16,1,Android v13,3,Lower-MidRange,Very Good
+poco,Poco C51 ,5999,70,0,0,0,Helio G36,helio,8,2.2,5000,1,10,6,128,6.52,720x1600,120,Punch Hole,8MP + 0.08MP,8,2,5,1,Android v13,3,Budget,Good
+vivo,Vivo T2x 5G,11990,75,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,18,4,128,6.58,1080x2408,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+infinix,Infinix GT 10 Pro,24999,88,1,0,0,Dimensity  8050,dimensity,8,3,5000,1,45,8,256,6.67,1080x2460,120,Punch Hole,108MP + 2MP + 2MP,108,3,32,1,Android v13,4,Lower-MidRange,Very Good
+poco,Poco C55 ,6499,75,0,0,0,Helio  G85,helio,8,2,5000,1,10,6,128,6.71,720x1650,120,Punch Hole,50MP,50,2,5,1,Android v12,3,Budget,Good
+xiaomi,Xiaomi Redmi Note 13 Pro Plus ,34364,88,1,1,1,Dimensity 7200 Ultra,dimensity,8,2.8,5000,1,120,12,512,6.67,1220x2712,120,Punch Hole,200MP + 8MP + 2MP,200,3,16,1,Android v13,4,Upper-MidRange,Very Good
+honor,Honor 90 5G ,27980,89,1,1,0,Snapdragon 7 Gen 1 Accelerated Edition,snapdragon,8,2.36,5000,1,66,12,512,6.7,1200x2664,120,Punch Hole,200MP + 12MP + 2MP,200,3,50,1,Android v13,4,Upper-MidRange,Very Good
+apple,Apple iPhone 15 Plus,80990,84,1,1,0,Bionic  A16,bionic,6,3.46,4383,1,39,6,128,6.7,1290x2796,120,Punch Hole,48MP + 12MP,48,2,12,1,iOS v17,3,Flagship,Very Good
+oppo,OPPO A79 5G,17278,80,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,33,8,128,6.72,1080x2400,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Lower-MidRange,Very Good
+vivo,Vivo V27,31499,85,1,0,0,Dimensity 7200,dimensity,8,2.8,4600,1,66,8,128,6.78,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,50,1,Android v13,4,Upper-MidRange,Very Good
+vivo,Vivo Y28 5G,13869,75,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,15,4,128,6.56,720x1612,90,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+xiaomi,Xiaomi Redmi Note 13 5G ,20889,85,1,0,1,Dimensity 6080,dimensity,8,2.4,5000,1,33,12,256,6.67,1080x2400,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v13,4,Lower-MidRange,Very Good
+oppo,OPPO A59 5G,13999,71,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,33,4,128,6.56,720x1612,90,Punch Hole,13MP + 2MP,13,2,8,1,Android v13,3,Budget,Good
+realme,Realme C53,8699,75,0,0,0,Tiger T612,tiger,8,1.82,5000,1,18,4,128,6.74,1080x2400,90,Water Drop Notch,108MP + 2MP,108,2,8,1,Android v13,3,Budget,Good
+xiaomi,Xiaomi Redmi A3,7299,64,0,0,0,Helio G36,helio,8,2.2,5000,1,10,3,64,6.71,720x1650,90,Water Drop Notch,8MP,8,2,5,1,Android v13,3,Budget,Average
+oneplus,OnePlus 12 ,68800,94,1,1,1,Snapdragon 8 Gen3,snapdragon,8,3.3,5400,1,100,16,512,6.82,1440x3168,120,Punch Hole,64MP + 50MP + 48MP,64,3,32,1,Android v14,4,Sub-Flagship,Excellent
+samsung,Samsung Galaxy S21 FE ,29999,88,1,1,0,Snapdragon 888,snapdragon,8,2.84,4500,1,25,8,128,6.4,1080x2340,120,Punch Hole,12MP + 12MP + 8MP,12,3,32,1,Android v11,4,Upper-MidRange,Very Good
+vivo,Vivo T2 Pro 5G ,24999,82,1,0,0,Dimensity 7200,dimensity,8,2.8,4600,1,66,8,256,6.78,1080x2400,120,Punch Hole,64MP + 2MP,64,2,16,1,Android v13,3,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 12 Pro 5G,19999,79,1,0,1,Dimensity 1080,dimensity,8,2.6,5000,1,67,6,128,6.67,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Lower-MidRange,Good
+samsung,Samsung Galaxy S20 FE 5G,26700,88,1,1,0,Snapdragon 865,snapdragon,8,2.84,4500,1,39,8,128,6.5,1080x2400,120,Punch Hole,12MP + 12MP + 8MP,12,3,32,1,Android v10,4,Upper-MidRange,Very Good
+realme,Realme C67 5G ,12795,78,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,33,6,128,6.72,1080x2400,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+oppo,OPPO Reno 10,32999,88,1,1,1,Dimensity 7050,dimensity,8,2.6,5000,1,67,8,256,6.7,1080x2412,120,Punch Hole,64MP + 32MP + 8MP,64,3,32,1,Android v13,4,Upper-MidRange,Very Good
+realme,Realme 11 Pro Plus,27999,88,1,0,0,Dimensity 7050,dimensity,8,2.6,5000,1,100,8,256,6.7,1080x2412,120,Punch Hole,200MP + 8MP + 2MP,200,3,32,1,Android v13,4,Upper-MidRange,Very Good
+poco,Poco M6 5G,9497,73,1,0,1,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,18,4,128,6.74,720x1650,90,Punch Hole,50MP,50,2,5,1,Android v13,3,Budget,Good
+realme,Realme 11,15999,83,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,67,8,128,6.72,1080x2400,120,Punch Hole,108MP + 2MP,108,2,16,1,Android v13,3,Lower-MidRange,Very Good
+motorola,Motorola Moto G24 Power,7999,75,0,0,0,Helio G85,helio,8,2,6000,1,30,4,128,6.6,720x1612,90,Punch Hole,50MP + 2MP,50,2,16,1,Android v14,3,Budget,Good
+xiaomi,Xiaomi Redmi 12 5G,12998,75,1,0,1,Snapdragon 4 Gen2,snapdragon,8,2.2,5000,1,18,4,128,6.79,1080x2460,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+motorola,Motorola Moto G32 ,9999,80,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,33,8,128,6.55,1080x2400,90,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v12,4,Budget,Very Good
+poco,POCO X5 5G ,20999,84,1,0,1,Snapdragon 695,snapdragon,8,2.2,5000,1,33,8,256,6.67,1080x2400,120,Punch Hole,48MP + 8MP + 2MP,48,3,13,1,Android v12,4,Lower-MidRange,Very Good
+lava,Lava Agni 2 5G,19999,82,1,0,0,Dimensity 7050,dimensity,8,2.6,4700,1,66,8,256,6.78,1080x2460,120,Punch Hole,50MP,50,4,16,1,Android v13,5,Lower-MidRange,Very Good
+vivo,Vivo Y200 5G ,23320,82,1,0,0,Snapdragon 4 Gen1,snapdragon,8,2,4800,1,44,8,256,6.67,1080x2400,120,Punch Hole,64MP + 2MP,64,2,16,1,Android v13,3,Lower-MidRange,Very Good
+vivo,Vivo V25 Pro 5G,23799,84,1,0,0,Dimensity 1300,dimensity,8,3,4830,1,66,8,128,6.56,1080x2376,120,Punch Hole,64MP + 8MP + 2MP,64,3,32,1,Android v13,4,Lower-MidRange,Very Good
+poco,Poco M6 Pro 5G ,12998,80,1,0,1,Snapdragon 4 Gen2,snapdragon,8,2.2,5000,1,18,8,256,6.79,1080x2460,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Very Good
+realme,Realme Narzo 60X,11499,75,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,33,4,128,6.72,1080x2400,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+iqoo,iQOO Z7s ,16900,82,1,0,0,Snapdragon 695,snapdragon,8,2.2,4500,1,44,8,128,6.38,1080x2388,90,Water Drop Notch,64MP + 2MP,64,2,16,1,Android v13,3,Lower-MidRange,Very Good
+samsung,Samsung Galaxy F34 5G,15999,83,1,1,0,Exynos 1280,exynos,8,2.4,6000,1,25,6,128,6.5,1080x2340,120,Water Drop Notch,50MP + 8MP + 2MP,50,3,13,1,Android v13,4,Lower-MidRange,Very Good
+lava,Lava Storm 5G,11999,81,1,0,0,Dimensity 6080,dimensity,8,2.4,5000,1,33,8,128,6.78,2400x1200,120,Punch Hole,50MP + 8MP,50,2,16,1,Android v13,3,Budget,Very Good
+xiaomi,Xiaomi Redmi 13C 4G,7999,73,0,0,0,Helio G85,helio,8,2,5000,1,18,4,128,6.74,720x1600,90,Water Drop Notch,50MP + 2MP + 0.08MP,50,3,8,1,Android v13,4,Budget,Good
+infinix,Infinix Zero 30 5G,21553,87,1,1,0,Dimensity 8020,dimensity,8,2.6,5000,1,68,8,256,6.78,1080x2400,144,Punch Hole,108MP + 13MP + 2MP,108,3,50,1,Android v13,4,Lower-MidRange,Very Good
+apple,Apple iPhone 14 Plus,66999,82,1,1,0,Bionic A15,bionic,6,3.22,4325,1,39,6,128,6.7,1284x2778,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v16,3,Sub-Flagship,Very Good
+samsung,Samsung Galaxy M52 5G,21499,83,1,1,0,Snapdragon 778G,snapdragon,8,2.4,5000,1,25,6,128,6.7,1080x2400,120,Punch Hole,64MP + 12MP + 5MP,64,3,32,1,Android v11,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 13 Pro 5G ,28080,86,1,0,1,Snapdragon 7s Gen 2,snapdragon,8,2.4,5100,1,67,12,256,6.67,1220x2712,120,Punch Hole,200MP + 8MP + 2MP,200,3,16,1,Android v13,4,Upper-MidRange,Very Good
+poco,Poco C55,5999,71,0,0,0,Helio  G85,helio,8,2,5000,1,10,4,64,6.71,720x1650,120,Punch Hole,50MP,50,2,5,1,Android v12,3,Budget,Good
+samsung,Samsung Galaxy A14 5G,11599,75,1,0,0,Exynos 1330,exynos,8,2.4,5000,1,15,4,64,6.6,1080x2408,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,13,1,Android v13,4,Budget,Good
+xiaomi,Xiaomi Redmi Note 13 Pro Plus ,32035,88,1,1,1,Dimensity 7200 Ultra,dimensity,8,2.8,5000,1,120,12,256,6.67,1220x2712,120,Punch Hole,200MP + 8MP + 2MP,200,3,16,1,Android v13,4,Upper-MidRange,Very Good
+tecno,Tecno Pova 5 Pro,14988,83,1,1,0,Dimensity 6080,dimensity,8,2.4,5000,1,68,8,128,6.78,1080x2460,120,Punch Hole,50MP + 0.08MP,50,2,16,1,Android v13,3,Budget,Very Good
+vivo,Vivo T2x 5G ,14999,80,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,18,8,128,6.58,1080x2408,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Very Good
+google,Google Pixel 7A,38999,86,1,1,0,Tensor G2,tensor,8,2.85,4385,1,18,8,128,6.1,1080x2400,90,Punch Hole,64MP + 13MP,64,2,13,1,Android v13,3,Upper-MidRange,Very Good
+oneplus,OnePlus Nord CE 2 Lite 5G,17250,81,1,0,0,Snapdragon 695,snapdragon,8,2.2,5000,1,33,6,128,6.59,1080x2412,120,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v12,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy S22 Ultra 5G,84999,93,1,1,0,Snapdragon  8 Gen1,snapdragon,8,3,5000,1,45,12,256,6.8,1440x3080,120,Punch Hole,108MP,108,4,40,1,Android v13,5,Flagship,Excellent
+poco,Poco M6 Pro 5G ,9990,75,1,0,1,Snapdragon 4 Gen2,snapdragon,8,2.2,5000,1,18,4,128,6.79,1080x2460,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+iqoo,iQOO Z6 Lite ,12499,79,1,0,0,Snapdragon  4 Gen 1,snapdragon,8,2,5000,1,18,6,128,6.58,1080x2408,120,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+apple,Apple iPhone 15 Pro,127990,87,1,1,0,Bionic  A17 Pro,bionic,6,3.78,3274,1,39,8,128,6.1,1179x2556,120,Punch Hole,48MP + 12MP + 12MP,48,3,12,1,iOS v17,4,Flagship,Very Good
+apple,Apple iPhone 12,44999,75,1,1,0,Bionic A14,bionic,6,3.1,4845.19,1,39,4,64,6.6,1080x2400,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Premium,Good
+realme,Realme 12 Pro Plus 5G ,30500,86,1,0,0,Snapdragon 7s Gen2,snapdragon,8,2.4,5000,1,67,8,256,6.7,1080x2412,120,Punch Hole,64MP + 50MP + 8MP,64,3,32,1,Android v14,4,Upper-MidRange,Very Good
+nothing,Nothing Phone 2 ,38999,89,1,1,0,Snapdragon 8+ Gen1,snapdragon,8,3.2,4700,1,45,12,512,6.7,1080x2412,120,Punch Hole,50MP + 50MP,50,2,32,1,Android v13,3,Upper-MidRange,Very Good
+samsung,Samsung Galaxy A15 5G ,17819,79,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,25,6,128,6.5,1080x2340,90,Water Drop Notch,50MP + 5MP + 2MP,50,3,13,1,Android v14,4,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi Note 13 Pro Plus ,32100,88,1,1,1,Dimensity 7200 Ultra,dimensity,8,2.8,5000,1,120,12,256,6.67,1220x2712,120,Punch Hole,200MP + 8MP + 2MP,200,3,16,1,Android v13,4,Upper-MidRange,Very Good
+vivo,Vivo V29 ,35999,86,1,0,0,Snapdragon 778G,snapdragon,8,2.4,4600,1,80,12,256,6.78,1260x2800,120,Punch Hole,50MP + 8MP + 2MP,50,3,50,1,Android v13,4,Upper-MidRange,Very Good
+realme,Realme Narzo 60 5G ,16999,82,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,33,8,256,6.43,1080x2400,90,Punch Hole,64MP + 2MP,64,2,16,1,Android v13,3,Lower-MidRange,Very Good
+oneplus,OnePlus Nord 3 5G ,36990,87,1,1,1,Dimensity 9000,dimensity,8,3.05,5000,1,80,16,256,6.74,1240x2772,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+infinix,Infinix Zero 30 5G,21553,87,1,1,0,Dimensity 8020,dimensity,8,2.6,5000,1,68,8,256,6.78,1080x2400,144,Punch Hole,108MP + 13MP + 2MP,108,3,50,1,Android v13,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy S23 ,58600,88,1,1,0,Snapdragon 8 Gen 2,snapdragon,8,3.36,3900,1,25,8,256,6.1,1080x2340,120,Punch Hole,50MP + 12MP + 10MP,50,3,12,1,Android v13,4,Premium,Very Good
+oneplus,OnePlus 11 5G,52999,89,1,1,0,Snapdragon 8 Gen2,snapdragon,8,3.2,5000,1,100,8,128,6.7,1440x3216,120,Punch Hole,50MP + 48MP + 32MP,50,3,16,1,Android v13,4,Premium,Very Good
+samsung,Samsung Galaxy S24 Ultra ,159999,96,1,1,0,Snapdragon 8 Gen3,snapdragon,8,3.3,5000,1,45,12,1,6.8,1440x3120,120,Punch Hole,200MP,200,4,12,1,Android v14,5,Flagship,Excellent
+samsung,Samsung Galaxy S24 Ultra ,123470,95,1,1,0,Snapdragon 8 Gen3,snapdragon,8,3.3,5000,1,45,12,512,6.8,1440x3120,120,Punch Hole,200MP,200,4,12,1,Android v14,5,Flagship,Excellent
+realme,Realme Narzo N55 ,9680,76,0,0,0,Helio G88,helio,8,2,5000,1,33,6,128,6.72,1080x2400,90,Punch Hole,64MP + 2MP,64,2,8,1,Android v13,3,Budget,Good
+vivo,Vivo X100 Pro 5G,89999,93,1,1,1,Dimensity 9300,dimensity,8,3.25,5400,1,100,16,256,6.78,1260x2800,120,Punch Hole,50MP + 50MP + 50MP,50,3,32,1,Android v14,4,Flagship,Excellent
+samsung,Samsung Galaxy A34 5G ,26499,86,1,1,0,Dimensity 1080,dimensity,8,2.6,5000,1,25,8,256,6.6,1080x2340,120,Water Drop Notch,48MP + 8MP + 5MP,48,3,13,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy F04,6730,68,0,0,0,Helio P35,helio,8,2.3,5000,1,15,4,64,6.5,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v12,3,Budget,Average
+poco,Poco M5,6989,74,0,0,1,Helio G99,helio,8,2.2,5000,1,18,4,64,6.58,1080x2400,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+iqoo,iQOO Neo 7 5G,32900,82,1,0,1,Dimensity 8200,dimensity,8,3.1,5000,1,120,8,128,6.78,1080x2400,120,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+oppo,OPPO F23,22999,84,1,0,0,Snapdragon  695,snapdragon,8,2.2,5000,1,67,8,256,6.72,1080x2400,120,Punch Hole,64MP + 2MP + 2MP,64,3,32,1,Android v13,4,Lower-MidRange,Very Good
+infinix,Infinix Smart 8,7098,71,0,0,0,Helio G36,helio,8,2.2,5000,1,10,4,64,6.6,720x1612,90,Punch Hole,50MP,50,2,8,1,Android v13,3,Budget,Good
+itel,itel S23 Plus,13999,77,0,0,0,Tiger T616,tiger,8,2,5000,1,18,8,256,6.78,1080x2400,120,Punch Hole,50MP + 0.08MP,50,2,32,1,Android v13,3,Budget,Good
+realme,Realme Narzo 60X ,12499,78,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,33,6,128,6.72,1080x2400,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+xiaomi,Xiaomi Redmi Note 12 ,18999,83,1,0,1,Snapdragon 4 Gen 1,snapdragon,8,2,5000,1,33,8,256,6.67,1080x2400,120,Punch Hole,48MP + 8MP + 2MP,48,3,13,1,Android v12,4,Lower-MidRange,Very Good
+realme,Realme C55 ,12390,79,0,0,0,Helio G88,helio,8,2,5000,1,33,8,128,6.72,1080x2400,90,Punch Hole,64MP + 2MP,64,2,8,1,Android v13,3,Budget,Good
+oppo,Oppo Reno 10 Pro Plus,49499,89,1,1,1,Snapdragon 8+ Gen1,snapdragon,8,3.2,4700,1,100,12,256,6.74,1240x2772,120,Punch Hole,64MP + 50MP + 8MP,64,3,32,1,Android v13,4,Premium,Very Good
+poco,Poco M4 5G ,9999,79,1,0,1,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,6,128,6.58,1080x2400,90,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+apple,Apple iPhone 11,43900,73,0,1,0,A13 Bionic,a13,6,2.65,3110,0,39,4,64,6.1,828x1792,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v13,3,Premium,Good
+realme,Realme C53 ,9234,77,0,0,0,Tiger T612,tiger,8,1.82,5000,1,18,6,128,6.74,1080x2400,90,Water Drop Notch,108MP + 2MP,108,2,8,1,Android v13,3,Budget,Good
+oneplus,OnePlus 11R ,40292,87,1,1,1,Snapdragon 8+ Gen1,snapdragon,8,3.2,5000,1,100,16,256,6.74,1240x2772,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Premium,Very Good
+xiaomi,Xiaomi Redmi 12C,6583,70,0,0,0,Helio  G85,helio,8,2,5000,0,39,4,64,6.71,720x1650,120,Punch Hole,50MP + Depth Sensor,50,2,5,1,Android v12,3,Budget,Good
+oppo,Oppo A78,15499,78,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,1,33,8,128,6.56,720x1612,90,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v12,3,Lower-MidRange,Good
+poco,Poco F4 ,21999,86,1,1,0,Snapdragon  870,snapdragon,8,3.2,4500,1,67,12,256,6.67,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,20,1,Android v13,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi 13C 5G ,14499,79,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,18,8,256,6.74,720x1600,90,Water Drop Notch,50MP + Depth Sensor,50,2,5,1,Android v13,3,Budget,Good
+iqoo,iQOO 12 5G ,57999,90,1,1,1,Snapdragon 8 Gen3,snapdragon,8,3.3,5000,1,120,16,512,6.78,1260x2800,144,Punch Hole,64MP + 50MP + 50MP,64,3,16,1,Android v13,4,Premium,Excellent
+samsung,Samsung Galaxy M34 5G ,17523,84,1,1,0,Exynos 1280,exynos,8,2.4,6000,1,25,8,128,6.5,1080x2340,120,Water Drop Notch,50MP + 8MP + 2MP,50,3,13,1,Android v13,4,Lower-MidRange,Very Good
+realme,Realme 11 Pro Plus ,29845,89,1,0,0,Dimensity 7050,dimensity,8,2.6,5000,1,100,12,256,6.7,1080x2412,120,Punch Hole,200MP + 8MP + 2MP,200,3,32,1,Android v13,4,Upper-MidRange,Very Good
+tecno,Tecno Camon 20 Pro 5G,19849,84,1,0,0,Dimensity 8050,dimensity,8,3,5000,1,33,8,128,6.67,1080x2400,120,Punch Hole,64MP + 2MP + 2MP,64,3,32,1,Android v13,4,Lower-MidRange,Very Good
+poco,Poco C51,5499,66,0,0,0,Helio G36,helio,8,2.2,5000,1,10,4,64,6.52,720x1600,120,Punch Hole,8MP + 0.08MP,8,2,5,1,Android v13,3,Budget,Average
+samsung,Samsung Galaxy A54 5G ,36899,89,1,1,0,Exynos 1380,exynos,8,2.4,5000,1,25,8,256,6.4,1080x2340,120,Punch Hole,50MP + 12MP + 5MP,50,3,32,1,Android v13,4,Upper-MidRange,Very Good
+iqoo,iQOO Neo 7 ,27999,84,1,0,1,Dimensity 8200,dimensity,8,3.1,5000,1,120,12,256,6.78,1080x2400,120,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+realme,Realme C55,10999,73,0,0,0,Helio G88,helio,8,2,5000,1,33,4,64,6.72,1080x2400,90,Punch Hole,64MP + 2MP,64,2,8,1,Android v13,3,Budget,Good
+poco,Poco M4 5G,9499,75,1,0,1,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,4,64,6.58,1080x2400,90,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+samsung,Samsung Galaxy S21 Ultra,105999,93,1,1,0,Exynos  2100,exynos,8,2.9,5000,1,25,12,256,6.8,1440x3200,120,Punch Hole,108MP,108,4,40,1,Android v13,5,Flagship,Excellent
+xiaomi,Xiaomi Redmi 13C 5G ,12499,76,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,18,6,128,6.74,720x1600,90,Water Drop Notch,50MP + Depth Sensor,50,2,5,1,Android v13,3,Budget,Good
+samsung,Samsung Galaxy A34 5G ,24499,86,1,1,0,Dimensity 1080,dimensity,8,2.6,5000,1,25,8,128,6.6,1080x2340,120,Water Drop Notch,48MP + 8MP + 5MP,48,3,13,1,Android v13,4,Lower-MidRange,Very Good
+vivo,Vivo Y56,16399,83,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,8,128,6.58,1080x2408,120,Punch Hole,50MP + 2MP,50,2,16,1,Android v13,3,Lower-MidRange,Very Good
+oppo,OPPO Reno 10 Pro,34799,87,1,1,1,Snapdragon 778G,snapdragon,8,2.4,4600,1,80,12,256,6.7,1080x2412,120,Punch Hole,50MP + 32MP + 8MP,50,3,32,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy S24 Plus,99999,89,1,1,0,Exynos 2400,exynos,10,3.2,4900,1,45,12,256,6.7,1440x3120,120,Punch Hole,50MP + 12MP + 10MP,50,3,12,1,Android v13,4,Flagship,Very Good
+oneplus,OnePlus Nord CE 2 5G ,19999,85,1,1,0,Dimensity 900,dimensity,8,2.4,4500,1,65,8,128,6.43,1080x2400,90,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+apple,Apple iPhone 15 Pro Max ,196900,89,1,1,0,Bionic  A17 Pro,bionic,6,3.78,4422,1,39,8,1,6.7,1290x2796,120,Punch Hole,48MP + 12MP + 12MP,48,3,12,1,iOS v17,4,Flagship,Very Good
+realme,Realme 11x 5G ,13999,80,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,33,8,128,6.72,1080x2400,120,Punch Hole,64MP + 2MP,64,2,8,1,Android v13,3,Budget,Very Good
+xiaomi,Xiaomi Redmi 13C 5G ,14499,79,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,18,8,256,6.74,720x1600,90,Water Drop Notch,50MP + Depth Sensor,50,2,5,1,Android v13,3,Budget,Good
+realme,Realme 11x 5G ,13499,80,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,33,8,128,6.72,1080x2400,120,Punch Hole,64MP + 2MP,64,2,8,1,Android v13,3,Budget,Very Good
+iqoo,iQOO Neo 7 ,27999,84,1,0,1,Dimensity 8200,dimensity,8,3.1,5000,1,120,12,256,6.78,1080x2400,120,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+oneplus,OnePlus Nord CE 2 5G ,19999,85,1,1,0,Dimensity 900,dimensity,8,2.4,4500,1,65,8,128,6.43,1080x2400,90,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy A15 5G ,22274,82,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,25,8,256,6.5,1080x2340,90,Water Drop Notch,50MP + 5MP + 2MP,50,3,13,1,Android v14,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi 13C 5G ,12499,76,1,0,0,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,18,6,128,6.74,720x1600,90,Water Drop Notch,50MP + Depth Sensor,50,2,5,1,Android v13,3,Budget,Good
+apple,Apple iPhone 15 Pro Max ,196900,89,1,1,0,Bionic  A17 Pro,bionic,6,3.78,4422,1,39,8,1,6.7,1290x2796,120,Punch Hole,48MP + 12MP + 12MP,48,3,12,1,iOS v17,4,Flagship,Very Good
+apple,Apple iPhone 15 ,79999,84,1,1,0,Bionic  A16,bionic,6,3.46,3349,1,39,6,256,6.1,1179x2556,120,Punch Hole,48MP + 12MP,48,2,12,1,iOS v17,3,Sub-Flagship,Very Good
+poco,Poco M6 Pro 5G,10899,74,1,0,1,Snapdragon 4 Gen2,snapdragon,8,2.2,5000,1,18,4,64,6.79,1080x2460,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+nothing,Nothing Phone 2,39999,88,1,1,0,Snapdragon 8+ Gen1,snapdragon,8,3.2,4700,1,45,8,128,6.7,1080x2412,120,Punch Hole,50MP + 50MP,50,2,32,1,Android v13,3,Upper-MidRange,Very Good
+realme,Realme GT Neo 3 5G ,25896,84,1,1,0,Dimensity  8100,dimensity,8,2.85,4500,1,150,12,256,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+oneplus,OnePlus 10R 5G,28986,84,1,1,0,Dimensity 8100 Max,dimensity,8,2.85,5000,1,80,8,128,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+poco,Poco X6 5G ,24850,84,1,0,1,Snapdragon 7s Gen 2,snapdragon,8,2.4,5100,1,67,12,512,6.67,1220x2712,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Lower-MidRange,Very Good
+iqoo,iQOO Neo 7 Pro ,33999,84,1,0,1,Snapdragon 8+ Gen1,snapdragon,8,3.2,5000,1,120,12,256,6.78,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+oneplus,OnePlus Open 5G,139990,96,1,1,1,Snapdragon 8 Gen2,snapdragon,8,3.2,4805,1,67,16,512,7.82,2268x2440,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Flagship,Excellent
+google,Google Pixel 7 Pro 5G,63999,89,1,1,0,Google  Tensor G2,google,8,2.85,5000,1,30,12,128,6.7,1440x3120,120,Punch Hole,50MP + 48MP + 12MP,50,3,8,1,Android v13,4,Sub-Flagship,Very Good
+apple,Apple iPhone SE 3 2022,30730,59,1,1,0,Bionic  A15,bionic,6,3.22,4845.19,1,39,6,64,6.1,1170x2532,120,Punch Hole,12MP + 12MP,12,2,12,1,Android v13,3,Upper-MidRange,Poor
+tecno,Tecno Pop 8,6599,65,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,10,4,64,6.56,720x1612,90,Water Drop Notch,12MP,12,2,8,1,Android v13,3,Budget,Average
+vivo,Vivo V29e ,28100,86,1,1,0,Snapdragon  695,snapdragon,8,2.2,5000,1,44,8,256,6.78,1080x2400,120,Punch Hole,64MP + 8MP,64,2,50,1,Android v13,3,Upper-MidRange,Very Good
+tecno,Tecno Spark 20,10499,78,0,0,0,Helio G85,helio,8,2,5000,1,18,8,128,6.56,720x1612,90,Punch Hole,50MP,50,2,32,1,Android v13,3,Budget,Good
+samsung,Samsung Galaxy A05s,12870,78,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,25,6,128,6.7,1080x2400,120,Punch Hole,50MP + 2MP + 2MP,50,3,13,1,Android v13,4,Budget,Good
+infinix,Infinix Hot 30 5G ,12900,82,1,1,0,Dimensity 6020,dimensity,8,2.2,6000,1,18,8,128,6.78,1080x2460,120,Punch Hole,50MP,50,2,8,1,Android v13,3,Budget,Very Good
+realme,Realme Narzo N53,7869,70,0,0,0,Unisoc T612,unisoc,8,1.8,5000,1,33,4,64,6.74,720x1600,90,Punch Hole,50MP + Depth Sensor,50,2,8,1,Android v13,3,Budget,Good
+vivo,Vivo Y02t 4G,6374,64,0,0,0,Helio P35,helio,8,2.3,5000,1,18,4,64,6.51,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v13,4,Budget,Average
+poco,Poco F5,28400,84,1,0,1,Snapdragon 7+ Gen2,snapdragon,8,2.91,5000,1,67,8,256,6.67,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+itel,itel P55 5G ,10199,75,1,0,0,Dimensity 6080,dimensity,8,2.4,5000,1,18,6,128,6.6,1600x720,90,Water Drop Notch,50MP,50,2,8,1,Android v13,3,Budget,Good
+apple,Apple iPhone 15 Plus ,90990,85,1,1,0,Bionic  A16,bionic,6,3.46,4383,1,39,6,256,6.7,1290x2796,120,Punch Hole,48MP + 12MP,48,2,12,1,iOS v17,3,Flagship,Very Good
+samsung,Samsung Galaxy A25 5G,26600,84,1,1,0,Exynos 1280,exynos,8,2.4,5000,1,25,8,128,6.5,1080x2340,120,Water Drop Notch,50MP + 8MP + 2MP,50,3,13,1,Android v14,4,Upper-MidRange,Very Good
+tecno,Tecno Pova 5 Pro 5G ,15994,84,1,1,0,Dimensity 6080,dimensity,8,2.4,5000,1,68,8,256,6.78,1080x2460,120,Punch Hole,50MP + 0.08MP,50,2,16,1,Android v13,3,Lower-MidRange,Very Good
+poco,Poco C65,7499,73,0,0,0,Helio G85,helio,8,2,5000,1,18,4,128,6.74,720x1600,90,Water Drop Notch,50MP + 2MP,50,3,8,1,Android v13,4,Budget,Good
+xiaomi,Xiaomi Redmi 12C ,6479,72,0,0,0,Helio  G85,helio,8,2,5000,0,39,4,128,6.71,720x1650,120,Punch Hole,50MP + Depth Sensor,50,2,5,1,Android v12,3,Budget,Good
+nokia,Nokia G42 5G,12599,75,1,0,0,Snapdragon 480+,snapdragon,8,2.2,5000,1,20,6,128,6.56,720x1612,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v13,4,Budget,Good
+tecno,Tecno Camon 20,11199,83,0,0,0,Helio G85,helio,8,2,5000,1,33,8,256,6.67,1080x2400,120,Punch Hole,64MP + 2MP,64,3,32,1,Android v13,4,Budget,Very Good
+vivo,Vivo V27 Pro,34490,84,1,0,0,Dimensity 8200,dimensity,8,3.1,4600,1,66,8,128,6.78,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,50,1,Android v13,4,Upper-MidRange,Very Good
+google,Google Pixel 8 Pro,106999,81,1,1,0,Tensor G3,tensor,9,3,5050,1,30,12,128,6.7,1344x2992,120,Punch Hole,50MP + 48MP + 48MP,50,3,5,1,Android v13,4,Flagship,Very Good
+oppo,OPPO A17,9999,72,0,0,0,Helio G35,helio,8,2.3,5000,1,39,4,64,6.56,720x1612,120,Punch Hole,50MP + 2MP,50,2,5,1,Android v12,3,Budget,Good
+xiaomi,Xiaomi Redmi 12 4G,9999,75,0,0,1,Helio G88,helio,8,2,5000,1,18,4,128,6.79,1080x2460,90,Punch Hole,50MP + 8MP + 2MP,50,3,8,1,Android v13,4,Budget,Good
+samsung,Samsung Galaxy S20 Ultra,57990,94,0,1,0,Exynos 990,exynos,8,2.73,5000,1,45,12,128,6.9,1440x3200,120,Punch Hole,108MP,108,4,40,1,Android v10.0,5,Premium,Excellent
+vivo,Vivo V29 Pro ,41990,85,1,0,0,Dimensity  8200,dimensity,8,3.1,4600,1,80,12,256,6.78,1260x2800,120,Punch Hole,50MP + 12MP + 8MP,50,3,50,1,Android v13,4,Premium,Very Good
+samsung,Samsung Galaxy F34 5G ,17999,85,1,1,0,Exynos 1280,exynos,8,2.4,6000,1,25,8,128,6.5,1080x2340,120,Water Drop Notch,50MP + 8MP + 2MP,50,3,13,1,Android v13,4,Lower-MidRange,Very Good
+motorola,Motorola Razr 40,43999,89,1,1,0,Snapdragon 7 Gen1,snapdragon,8,2.4,4200,1,30,8,256,6.9,1080x2640,144,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Premium,Very Good
+vivo,Vivo T2 5G ,17999,82,1,0,0,Snapdragon 695,snapdragon,8,2.2,4500,1,44,8,128,6.38,1080x2400,90,Water Drop Notch,64MP + 2MP,64,2,16,1,Android v13,3,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi A2,5499,61,0,0,0,Helio G36,helio,8,2.2,5000,1,10,2,32,6.52,720x1600,120,Punch Hole,8MP + Depth Sensor,8,2,5,1,Android v13,3,Budget,Average
+tecno,Tecno Camon 20 Premier,25999,89,1,1,0,Dimensity 8050,dimensity,8,3,5000,1,45,8,512,6.67,1080x2400,120,Punch Hole,108MP + 50MP + 2MP,108,3,32,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy A23 5G,20999,79,1,0,0,Snapdragon 695,snapdragon,8,2.2,5000,1,25,6,128,6.6,1080x2408,120,Water Drop Notch,50MP,50,4,8,1,Android v12,5,Lower-MidRange,Good
+samsung,Samsung Galaxy A53 5G ,26990,89,1,1,0,Exynos 1280,exynos,8,2.4,5000,1,25,8,128,6.5,1080x2400,120,Punch Hole,64MP,64,4,32,1,Android v12,5,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi A3 ,8299,67,0,0,0,Helio G36,helio,8,2.2,5000,1,10,4,128,6.71,720x1650,90,Water Drop Notch,8MP,8,2,5,1,Android v13,3,Budget,Average
+poco,Poco X4 Pro 5G,13290,80,1,0,1,Snapdragon 695,snapdragon,8,2.2,5000,1,67,6,64,6.67,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Budget,Very Good
+oppo,OPPO F21 Pro 5G,23089,82,1,0,0,Snapdragon 695,snapdragon,8,2.2,4500,1,33,8,128,6.43,1080x2400,120,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v12,4,Lower-MidRange,Very Good
+vivo,Vivo Y28 5G ,15499,77,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,15,6,128,6.56,720x1612,90,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v13,3,Lower-MidRange,Good
+realme,Realme Narzo N53 ,9440,75,0,0,0,Unisoc T612,unisoc,8,1.8,5000,1,33,8,128,6.74,720x1600,90,Punch Hole,50MP + Depth Sensor,50,2,8,1,Android v13,3,Budget,Good
+samsung,Samsung Galaxy S23 FE 5G ,51480,87,1,1,0,Exynos 2200,exynos,8,2.8,4500,1,25,8,256,6.4,1080x2340,120,Punch Hole,50MP + 12MP + 8MP,50,3,10,1,Android v13,4,Premium,Very Good
+oppo,Oppo A78 4G,15499,81,0,1,0,Snapdragon 680,snapdragon,8,2.4,5000,1,67,8,128,6.43,1080x2400,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Lower-MidRange,Very Good
+infinix,Infinix Note 30 5G,14999,81,1,1,0,Dimensity 6080,dimensity,8,2.4,5000,1,45,4,128,6.78,1080x2460,120,Punch Hole,108MP + 2MP,108,3,16,1,Android v13,4,Budget,Very Good
+vivo,Vivo X90 Pro 5G,59699,91,1,1,1,Dimensity 9200,dimensity,8,3.05,4870,1,120,12,256,6.78,1260x2800,120,Punch Hole,50MP + 50MP + 12MP,50,3,32,1,Android v13,4,Premium,Excellent
+samsung,Samsung Galaxy A05,9449,70,0,0,0,Helio G85,helio,8,2,5000,1,25,4,64,6.7,720x1600,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+iqoo,iQOO 11 5G,42999,87,1,1,0,Snapdragon 8 Gen2,snapdragon,8,3.2,5000,1,120,8,256,6.78,1440x3200,144,Punch Hole,50MP + 13MP + 8MP,50,3,16,1,Android v13,4,Premium,Very Good
+vivo,Vivo V25 5G,21490,83,1,0,0,Dimensity  900,dimensity,8,2,4500,1,44,8,128,6.44,1080x2408,90,Water Drop Notch,64MP + 8MP + 2MP,64,3,50,1,Android v12,4,Lower-MidRange,Very Good
+vivo,Vivo V23 Pro 5G,29990,85,1,0,0,Dimensity 1200,dimensity,8,3,4300,1,44,8,128,6.56,1080x2376,90,Small Notch,108MP + 8MP + 2MP,108,3,50,2,Android v12,5,Upper-MidRange,Very Good
+realme,Realme GT 5G,23999,85,1,1,0,Snapdragon  888,snapdragon,8,2.84,4500,1,65,8,128,6.43,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Lower-MidRange,Very Good
+vivo,Vivo X100 5G ,69999,92,1,1,1,Dimensity 9300,dimensity,8,3.25,5000,1,120,16,256,6.78,1260x2800,120,Punch Hole,64MP + 50MP + 50MP,64,3,32,1,Android v14,4,Sub-Flagship,Excellent
+oppo,OPPO A59 5G ,15499,74,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,33,6,128,6.56,720x1612,90,Punch Hole,13MP + 2MP,13,2,8,1,Android v13,3,Lower-MidRange,Good
+poco,Poco M6 5G ,11999,77,1,0,1,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,18,8,256,6.74,720x1650,90,Punch Hole,50MP,50,2,5,1,Android v13,3,Budget,Good
+tecno,Tecno Spark 10 Pro Moon Explorer Edition,8999,81,0,1,0,Helio  G88,helio,8,2,5000,1,18,8,128,6.8,1080x2460,90,Punch Hole,50MP,50,2,32,1,Android v13,3,Budget,Very Good
+motorola,Motorola Moto E13 ,7499,73,0,0,0,Tiger T606,tiger,8,2,5000,1,10,8,128,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v13,4,Budget,Good
+xiaomi,Xiaomi Redmi Note 12 Pro ,20654,82,1,0,1,Dimensity 1080,dimensity,8,2.6,5000,1,67,8,256,6.67,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Lower-MidRange,Very Good
+oppo,Oppo Reno 8T,38999,86,1,1,0,Snapdragon 695,snapdragon,8,2.2,4800,1,67,8,128,6.7,1080x2412,120,Punch Hole,108MP + 2MP + 2MP,108,3,32,1,Android v13,4,Upper-MidRange,Very Good
+lava,Lava Blaze 5G,8799,73,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,0,39,4,128,6.5,1600x720,90,Water Drop Notch,50MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+realme,Realme 10,10940,74,0,0,0,Helio G99,helio,8,2.2,5000,1,33,4,64,6.4,1080x2400,90,Punch Hole,50MP + 2MP,50,2,16,1,Android v12,3,Budget,Good
+infinix,Infinix Zero Ultra,29999,88,1,0,0,Dimensity 920 5G,dimensity,8,2.5,4500,1,180,8,256,6.8,1080x2400,120,Punch Hole,200MP + 13MP + 2MP,200,3,32,1,Android v12,4,Upper-MidRange,Very Good
+realme,Realme Narzo 60 Pro 5G,23499,82,1,0,0,Dimensity 7050,dimensity,8,2.6,5000,1,67,8,128,6.7,1080x2412,120,Punch Hole,100MP + 2MP,100,2,16,1,Android v13,3,Lower-MidRange,Very Good
+realme,Realme 10 Pro Plus,24999,82,1,0,0,Dimensity 1080,dimensity,8,2.6,5000,1,67,6,128,6.7,1080x2412,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v13,4,Lower-MidRange,Very Good
+oppo,OPPO Reno 8 Pro 5G,34999,86,1,1,0,Dimensity 8100-Max,dimensity,8,2.85,4500,1,80,12,256,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,32,1,Android v13,4,Upper-MidRange,Very Good
+tecno,Tecno Spark Go 2024,6429,64,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,10,3,64,6.56,720x1600,90,Punch Hole,13MP,13,2,8,1,Android v13,3,Budget,Average
+oppo,OPPO A58 4G,12999,75,0,0,1,Helio G85,helio,8,2,5000,1,33,6,128,6.72,1080x2400,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+realme,Realme C51,7980,69,0,0,0,Unisoc T612,unisoc,8,1.8,5000,1,33,4,64,6.74,720x1600,90,Water Drop Notch,50MP + 0.08MP,50,2,5,1,Android v13,3,Budget,Average
+motorola,Motorola Moto G14,8499,68,0,0,0,Tiger T616,tiger,8,2,5000,1,20,4,128,6.5,1080x2400,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Average
+xiaomi,Xiaomi Redmi 12C ,7289,74,0,0,0,Helio  G85,helio,8,2,5000,0,39,6,128,6.71,720x1650,120,Punch Hole,50MP + Depth Sensor,50,2,5,1,Android v12,3,Budget,Good
+samsung,Samsung Galaxy Z Fold 5,154999,92,1,1,0,Snapdragon 8 Gen 2,snapdragon,8,3.36,4400,1,25,12,256,7.6,1812x2176,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Flagship,Excellent
+motorola,Motorola Moto E13,5902,64,0,0,0,Tiger T606,tiger,8,2,5000,1,10,2,64,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v13,4,Budget,Average
+apple,Apple iPhone 14 ,66999,81,1,1,0,Bionic A15,bionic,6,3.22,3279,1,39,6,256,6.1,1170x2532,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v16,3,Sub-Flagship,Very Good
+poco,Poco M5 ,7999,77,0,0,1,Helio G99,helio,8,2.2,5000,1,18,6,128,6.58,1080x2400,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+oppo,OPPO A57 4G ,7919,69,0,0,0,Helio G35,helio,8,2.3,5000,1,33,4,64,6.56,720x1612,120,Punch Hole,13MP + 2MP,13,2,8,1,Android v12,3,Budget,Average
+google,Google Pixel 7 5G,44999,85,1,1,0,Google Tensor G2,google,8,2.85,4355,1,30,8,128,6.3,1080x2400,90,Punch Hole,50MP + 12MP,50,2,8,1,Android v13,3,Premium,Very Good
+poco,Poco X6 5G ,23999,83,1,0,1,Snapdragon 7s Gen 2,snapdragon,8,2.4,5100,1,67,12,256,6.67,1220x2712,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Lower-MidRange,Very Good
+nokia,Nokia G42 5G ,16660,79,1,1,0,Snapdragon  480+,snapdragon,8,2.2,5000,1,20,8,256,6.56,720x1612,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v13,4,Lower-MidRange,Good
+vivo,Vivo Y17s,10499,70,0,0,0,Helio G85,helio,8,2,5000,1,15,4,64,6.56,720x1612,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+oppo,OPPO A38,10999,72,0,0,0,Helio G85,helio,8,2,5000,1,33,4,128,6.56,720x1612,90,Water Drop Notch,50MP + 2MP,50,2,5,1,Android v13,3,Budget,Good
+vivo,Vivo Y27 4G,11399,75,0,0,0,Helio G85,helio,8,2,5000,1,44,6,128,6.64,1080x2388,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+tecno,Tecno Camon 20 Pro 5G ,21849,85,1,0,0,Dimensity 8050,dimensity,8,3,5000,1,33,8,256,6.67,1080x2400,120,Punch Hole,64MP + 2MP + 2MP,64,3,32,1,Android v13,4,Lower-MidRange,Very Good
+vivo,Vivo Y100 5G,20999,82,1,0,0,Dimensity  900,dimensity,8,2.4,4500,1,44,8,128,6.38,1080x2400,90,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v13,4,Lower-MidRange,Very Good
+vivo,Vivo T1 44W ,14990,79,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,44,6,128,6.44,1080x2408,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v12,4,Budget,Good
+xiaomi,Xiaomi Redmi Note 11 ,11699,80,0,0,1,Snapdragon  680,snapdragon,8,2.4,5000,1,33,6,128,6.43,1080x2400,90,Punch Hole,50MP,50,4,13,1,Android v11,5,Budget,Very Good
+oppo,OPPO Reno8 5G,28560,83,1,1,0,Dimensity 1300,dimensity,8,3,4500,1,80,8,128,6.43,1080x2400,90,Punch Hole,50MP + 8MP + 2MP,50,3,32,1,Android v13,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 11,10799,76,0,0,1,Snapdragon  680,snapdragon,8,2.4,5000,1,33,4,64,6.43,1080x2400,90,Punch Hole,50MP,50,4,13,1,Android v11,5,Budget,Good
+xiaomi,Xiaomi Mi 11X,19999,80,1,0,1,Snapdragon 870,snapdragon,8,3.2,4520,1,33,6,128,6.67,1080x2400,120,Punch Hole,48MP + 8MP + 5MP,48,3,20,1,Android v13,4,Lower-MidRange,Very Good
+oneplus,OnePlus 9R ,31990,88,1,1,0,Snapdragon 870,snapdragon,8,3.2,4500,1,65,12,256,6.55,1080x2400,120,Punch Hole,48MP,48,4,16,1,Android v11,5,Upper-MidRange,Very Good
+vivo,Vivo Y28 5G ,16989,79,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,15,8,128,6.56,720x1612,90,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v13,3,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi 13C ,8999,75,0,0,0,Helio G85,helio,8,2,5000,1,18,6,128,6.74,720x1600,90,Water Drop Notch,50MP + 2MP + 0.08MP,50,3,8,1,Android v13,4,Budget,Good
+xiaomi,Xiaomi Redmi 13C ,11499,78,0,0,0,Helio G85,helio,8,2,5000,1,18,8,256,6.74,720x1600,90,Water Drop Notch,50MP + 2MP + 0.08MP,50,3,8,1,Android v13,4,Budget,Good
+infinix,Infinix Smart 8 HD,6399,64,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,10,3,64,6.6,720x1612,90,Punch Hole,13MP + 0.08MP,13,2,8,1,Android v13,3,Budget,Average
+itel,itel P55 Plus,9999,74,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,45,8,256,6.6,720x1640,90,Punch Hole,50MP,50,2,8,1,Android v13,3,Budget,Good
+oppo,Oppo A18,9870,64,0,0,0,Helio G85,helio,8,2,5000,0,39,4,64,6.56,720x1612,120,Punch Hole,8MP + 2MP,8,2,5,1,Android v13,3,Budget,Average
+realme,Realme 11 Pro ,24999,84,1,0,0,Dimensity 7050,dimensity,8,2.6,5000,1,67,8,256,6.7,1080x2412,120,Punch Hole,100MP + 2MP,100,2,16,1,Android v13,3,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi A2 ,6799,66,0,0,0,Helio G36,helio,8,2.2,5000,1,10,4,64,6.52,720x1600,120,Punch Hole,8MP + Depth Sensor,8,2,5,1,Android v13,3,Budget,Average
+vivo,Vivo Y36 4G,11999,80,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,44,8,128,6.64,1080x2388,90,Water Drop Notch,50MP + 2MP,50,2,16,1,Android v13,3,Budget,Very Good
+tecno,Tecno Spark 10 Pro,8790,79,0,0,0,Helio G88,helio,8,2,5000,1,18,8,128,6.8,1080x2460,90,Punch Hole,50MP,50,2,32,1,Android v13,3,Budget,Good
+samsung,Samsung Galaxy S23 Ultra ,103991,94,1,1,0,Snapdragon 8 Gen 2,snapdragon,8,3.36,5000,1,45,12,512,6.8,1440x3088,120,Punch Hole,200MP,200,4,12,1,Android v13,5,Flagship,Excellent
+samsung,Samsung Galaxy A14 5G ,15900,79,1,0,0,Exynos 1330,exynos,8,2.4,5000,1,15,6,128,6.6,1080x2408,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,13,1,Android v13,4,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi Note 12 Pro Plus,23799,86,1,0,1,Dimensity 1080,dimensity,8,2.6,4980,1,120,8,256,6.67,1080x2400,120,Punch Hole,200MP + 8MP + 2MP,200,3,16,1,Android v12,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy M04,6890,66,0,0,0,Helio P35,helio,8,2.3,5000,1,15,4,64,6.5,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v12,3,Budget,Average
+xiaomi,Xiaomi 12 Pro 5G ,84999,89,1,1,1,Snapdragon 8 Gen1,snapdragon,8,3,4600,1,120,12,256,6.73,1440x3200,120,Punch Hole,50MP + 50MP + 50MP,50,3,32,1,Android v13,4,Flagship,Very Good
+samsung,Samsung Galaxy F13,9999,72,0,0,0,Exynos 850,exynos,8,2,6000,1,15,4,64,6.6,2408x1080,120,Punch Hole,50MP + 5MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+motorola,Motorola Edge 30 Fusion 5G,34000,88,1,1,0,Snapdragon 888+,snapdragon,8,2.9,4400,1,68,8,128,6.55,1080x2400,144,Punch Hole,50MP + 13MP + 2MP,50,3,32,1,Android v12,4,Upper-MidRange,Very Good
+vivo,Vivo V23 5G,26599,83,1,0,0,Dimensity  920 5G,dimensity,8,2.5,4200,1,44,8,128,6.44,1080x2400,90,Small Notch,64MP + 8MP + 2MP,64,3,50,2,Android v12,5,Upper-MidRange,Very Good
+google,Google Pixel 6A,43999,71,1,1,0,Google  Tensor,google,8,2.3,4410,1,39,6,128,6.14,1080x2400,120,Punch Hole,12.2MP + 12MP,12.2,2,8,1,Android v12,3,Premium,Good
+apple,Apple iPhone 13 ,62990,79,1,1,0,Bionic A15,bionic,6,3.22,3240,1,39,4,256,6.1,1170x2532,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v15,3,Sub-Flagship,Good
+cat,CAT S22 Flip,9780,48,0,0,0,215,snapdragon,4,1.3,2000,0,39,2,16,4,480x640,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Budget,Very Poor
+realme,Realme GT 2 5G,26649,84,1,1,0,Snapdragon  888,snapdragon,8,2.84,5000,1,65,8,128,6.62,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+apple,Apple iPhone 12 ,50999,76,1,1,0,Bionic A14,bionic,6,3.1,4845.19,1,39,4,128,4.7,750x1334,120,Punch Hole,50MP + 2MP,50,3,7,1,Android v13,4,Premium,Good
+apple,Apple iPhone 12 Mini,59900,74,1,1,0,Bionic A14,bionic,6,3.1,4845.19,1,39,4,64,6.1,1170x2532,120,Punch Hole,12MP + 12MP,12,2,12,1,Android v13,3,Premium,Good
+xiaomi,Xiaomi Mi A3,11499,74,0,0,1,Snapdragon  665,snapdragon,8,2,4030,1,18,4,64,6.08,720x1560,120,Punch Hole,48MP + 8MP + 2MP,48,3,32,1,Android v9.0 (Pie),4,Budget,Good
+infinix,Infinix Smart 8 ,8799,76,0,0,0,Helio G36,helio,8,2.2,5000,1,10,8,128,6.6,720x1612,90,Punch Hole,50MP,50,2,8,1,Android v13,3,Budget,Good
+samsung,Samsung Galaxy S24 ,79479,89,1,1,0,Exynos 2400,exynos,10,3.2,4000,1,25,8,512,6.2,1080x2340,120,Punch Hole,50MP + 12MP + 10MP,50,3,12,1,Android v13,4,Sub-Flagship,Very Good
+lava,Lava Blaze 2 5G,9999,72,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,18,4,64,6.5,720x1600,90,Punch Hole,50MP + 0.08MP,50,2,8,1,Android v13,3,Budget,Good
+apple,Apple iPhone 15 Pro ,137990,88,1,1,0,Bionic  A17 Pro,bionic,6,3.78,3274,1,39,8,256,6.1,1179x2556,120,Punch Hole,48MP + 12MP + 12MP,48,3,12,1,iOS v17,4,Flagship,Very Good
+apple,Apple iPhone 15 Pro Max ,166990,89,1,1,0,Bionic  A17 Pro,bionic,6,3.78,4422,1,39,8,512,6.7,1290x2796,120,Punch Hole,48MP + 12MP + 12MP,48,3,12,1,iOS v17,4,Flagship,Very Good
+realme,Realme C53 ,8909,76,0,0,0,Tiger T612,tiger,8,1.82,5000,1,18,6,64,6.74,1080x2400,90,Water Drop Notch,108MP + 2MP,108,2,8,1,Android v13,3,Budget,Good
+realme,Realme Narzo 60 Pro ,25985,83,1,0,0,Dimensity 7050,dimensity,8,2.6,5000,1,67,12,256,6.7,1080x2400,120,Punch Hole,100MP + 2MP,100,2,16,1,Android v13,3,Upper-MidRange,Very Good
+infinix,Infinix Hot 30 5G,11499,77,1,1,0,Dimensity 6020,dimensity,8,2.2,6000,1,18,4,128,6.78,1080x2460,120,Punch Hole,50MP,50,2,8,1,Android v13,3,Budget,Good
+itel,Itel P40 Plus,6999,63,0,0,0,Unisoc T606,snapdragon,8,2,7000,1,18,4,128,6.8,720x1640,90,Punch Hole,13MP,13,2,8,1,Android v13,3,Budget,Average
+poco,Poco F5 ,29441,85,1,0,1,Snapdragon 7+ Gen2,snapdragon,8,2.91,5000,1,67,12,256,6.67,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 12 4G ,13999,80,0,0,1,Snapdragon 685,snapdragon,8,2.8,5000,1,33,6,128,6.67,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,13,1,Android v13,4,Budget,Very Good
+infinix,Infinix Hot 30i,8299,76,0,0,0,Helio G37,helio,8,2.3,5000,1,10,8,128,6.6,720x1612,90,Water Drop Notch,50MP,50,2,8,1,Android v12,3,Budget,Good
+nokia,Nokia C32,6999,68,0,0,0,Unisoc SC9863A,unisoc,8,1.6,5000,0,39,4,64,6.52,720x1600,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Average
+oneplus,OnePlus 11 ,61388,90,1,1,0,Snapdragon 8 Gen2,snapdragon,8,3.2,5000,1,100,16,256,6.7,1440x3216,120,Punch Hole,50MP + 48MP + 32MP,50,3,16,1,Android v13,4,Sub-Flagship,Excellent
+motorola,Motorola Moto E13 ,6499,67,0,0,0,Tiger T606,tiger,8,2,5000,1,10,4,64,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v13,4,Budget,Average
+poco,Poco X5 Pro ,24999,84,1,0,1,Snapdragon 778G,snapdragon,8,2.4,5000,1,67,8,256,6.67,1080x2400,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v12,4,Lower-MidRange,Very Good
+tecno,Tecno Phantom V Fold,69500,92,1,1,0,Dimensity 9000 Plus,dimensity,8,3.2,5000,1,45,12,256,7.85,2000x2296,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Sub-Flagship,Excellent
+vivo,Vivo Y16 ,9668,68,0,0,0,Helio P35,helio,8,2.3,5000,1,10,4,64,6.51,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v12,3,Budget,Average
+iqoo,iQOO Z6 Lite 5G,12999,75,1,0,0,Snapdragon  4 Gen 1,snapdragon,8,2,5000,1,18,4,64,6.58,1080x2408,120,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+google,Google Pixel 8 5G,75999,77,1,1,0,Tensor G3,tensor,9,3,4575,1,30,8,128,6.2,1080x2400,120,Punch Hole,50MP + 12MP,50,2,5,1,Android v13,3,Sub-Flagship,Good
+infinix,Infinix Note 12 Pro 5G,18999,84,1,0,0,Dimensity 810 5G,dimensity,8,2.4,5000,1,33,8,128,6.7,1080x2400,120,Punch Hole,108MP + 2MP + 2MP,108,3,16,1,Android v12,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi K50i 5G,24999,82,1,0,1,Dimensity  8100,dimensity,8,2.85,5080,1,67,6,128,6.6,1080x2460,144,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Lower-MidRange,Very Good
+motorola,Motorola Moto G82 ,18300,86,1,1,0,Snapdragon 695,snapdragon,8,2.2,5000,1,30,8,128,6.6,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Very Good
+oneplus,OnePlus Nord 2T ,33999,85,1,1,0,Dimensity  1300,dimensity,8,3,4500,1,80,12,256,6.43,1080x2400,90,Punch Hole,50MP + 8MP + 2MP,50,3,32,1,Android v13,4,Upper-MidRange,Very Good
+realme,Realme GT Neo 3T,25999,79,1,0,0,Snapdragon 870,snapdragon,8,3.2,5000,1,80,6,128,6.62,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Good
+samsung,Samsung Galaxy F23 5G ,18490,80,1,1,0,Snapdragon  750G,snapdragon,8,2.2,5000,1,25,6,128,6.6,1080x2408,120,Water Drop Notch,50MP + 8MP + 2MP,50,3,8,1,Android v12,4,Lower-MidRange,Very Good
+oneplus,OnePlus Nord CE 2 5G,20999,82,1,1,0,Dimensity 900,dimensity,8,2.4,4500,1,65,6,128,6.43,1080x2400,90,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy Z Flip 4 5G,59999,88,1,1,0,Snapdragon  8+ Gen1,snapdragon,8,3.2,3700,1,25,8,128,6.7,1080x2640,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Premium,Very Good
+samsung,Samsung Galaxy M52 5G ,22990,86,1,1,0,Snapdragon 778G,snapdragon,8,2.4,5000,1,25,8,128,6.7,1080x2400,120,Punch Hole,64MP + 12MP + 5MP,64,3,32,1,Android v11,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 10 JE 5G,10390,74,1,0,1,Snapdragon 480,snapdragon,8,2,4800,1,18,4,64,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,8,1,Android v11,4,Budget,Good
+samsung,Samsung Galaxy Z Flip 3,45999,83,1,1,0,Snapdragon 888,snapdragon,8,2.84,3300,1,15,8,128,6.7,1080x2640,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Premium,Very Good
+realme,Realme 7 Pro ,16499,85,0,0,0,Snapdragon 720G,snapdragon,8,2.3,4500,1,65,8,128,6.4,1080x2400,120,Punch Hole,64MP,64,4,32,1,Android v10,5,Lower-MidRange,Very Good
+samsung,Samsung Galaxy M31s,14990,82,0,0,0,Exynos 9611,exynos,8,2.3,6000,1,25,6,128,6.5,1080x2400,120,Punch Hole,64MP,64,4,32,1,Android v10.0,5,Budget,Very Good
+apple,Apple iPhone 6s ,29990,51,0,1,0,Apple,apple,2,1.84,1715,0,39,2,32,4.7,750x1334,120,Punch Hole,50MP + 2MP,50,3,5,1,iOS v9,4,Upper-MidRange,Poor
+samsung,Samsung Galaxy A25 5G ,29699,85,1,1,0,Exynos 1280,exynos,8,2.4,5000,1,25,8,256,6.5,1080x2340,120,Water Drop Notch,50MP + 8MP + 2MP,50,3,13,1,Android v14,4,Upper-MidRange,Very Good
+poco,Poco C65 ,8999,71,0,0,0,Helio  G85,helio,8,2,5000,1,18,8,256,6.74,720x1600,90,Water Drop Notch,50MP + 2MP,50,3,8,1,Android v13,4,Budget,Good
+ikall,iKall K510 New,4499,48,0,0,0,,snapdragon,4,1.3,3000,0,39,2,32,5,480x854,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v13,4,Budget,Very Poor
+samsung,Samsung Galaxy A05s ,11384,75,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,25,4,128,6.7,1080x2400,120,Punch Hole,50MP + 2MP + 2MP,50,3,13,1,Android v13,4,Budget,Good
+itel,itel A70 4G,6799,60,0,0,0,Unisoc T603,unisoc,8,2.3,5000,1,10,4,128,6.6,720x1612,120,Punch Hole,13MP,13,2,8,1,Android v13,3,Budget,Average
+itel,itel P55 5G,9763,72,1,0,0,Dimensity 6080,dimensity,8,2.4,5000,1,18,4,64,6.6,1600x720,90,Water Drop Notch,50MP,50,2,8,1,Android v13,3,Budget,Good
+itel,itel P55T,8199,67,0,0,0,Unisoc T606,unisoc,8,1.6,6000,1,18,4,128,6.56,720x1612,90,Punch Hole,50MP + 0.08MP,50,2,8,1,Android v14,3,Budget,Average
+motorola,Motorola Razr 40 Ultra,68999,89,1,1,0,Snapdragon  8+ Gen1,snapdragon,8,3.2,3800,1,30,8,256,6.9,1080x2640,165,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Sub-Flagship,Very Good
+vivo,Vivo V27 ,35999,86,1,0,0,Dimensity 7200,dimensity,8,2.8,4600,1,66,12,256,6.78,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,50,1,Android v13,4,Upper-MidRange,Very Good
+vivo,Vivo V27 Pro ,38990,86,1,0,0,Dimensity 8200,dimensity,8,3.1,4600,1,66,12,256,6.78,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,50,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy A14 4G,9099,74,0,0,0,Exynos  850,exynos,8,2,5000,1,15,4,64,6.6,1080x2408,120,Punch Hole,50MP + 5MP + 2MP,50,3,13,1,Android v13,4,Budget,Good
+samsung,Samsung Galaxy A04e ,8999,66,0,0,0,Helio P35,helio,8,2.3,5000,0,39,3,64,6.5,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v12,3,Budget,Average
+vivo,Vivo Y22,12300,72,0,0,0,Helio G70,helio,8,2,5000,1,18,4,64,6.55,720x1612,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+realme,Realme 9i 5G,13490,75,1,0,0,Dimensity 810 5G,dimensity,8,2.4,5000,1,18,4,64,6.6,1080x2408,90,Punch Hole,50MP + 2MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+vivo,Vivo Y35,15322,79,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,44,8,128,6.58,1080x2408,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Good
+realme,Realme GT Neo 3 Thor Limited Edition,26999,85,1,1,0,Dimensity  8100,dimensity,8,2.85,5000,1,150,12,256,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+poco,Poco F4 5G,21899,82,1,1,0,Snapdragon  870,snapdragon,8,3.2,4500,1,67,6,128,6.67,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,20,1,Android v13,4,Lower-MidRange,Very Good
+realme,Realme 9 5G,13990,75,1,0,0,Dimensity  810 5G,dimensity,8,2.4,5000,1,18,4,64,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Budget,Good
+motorola,Motorola Edge 30 Pro 5G,34999,89,1,1,0,Snapdragon 8 Gen1,snapdragon,8,3,4800,1,68,8,128,6.7,1080x2400,144,Punch Hole,50MP + 50MP + 2MP,50,3,60,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy A23,13999,79,0,0,0,Snapdragon  680,snapdragon,8,2.4,5000,1,25,6,128,6.6,1080x2408,120,Punch Hole,50MP,50,4,8,1,Android v12,5,Budget,Good
+samsung,Samsung Galaxy A33 5G,22999,82,1,1,0,Exynos  1280,exynos,8,2.4,5000,1,25,6,128,6.4,1080x2400,90,Punch Hole,48MP,48,4,13,1,Android v12,5,Lower-MidRange,Very Good
+samsung,Samsung Galaxy M33 5G,19150,81,1,1,0,Exynos  1280,exynos,8,2.4,6000,1,25,6,128,6.6,1080x2400,120,Water Drop Notch,50MP,50,4,8,1,Android v12,5,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,19998,83,1,0,1,Snapdragon  695,snapdragon,8,2.2,5000,1,67,6,128,6.67,1080x2400,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v11,4,Lower-MidRange,Very Good
+motorola,Motorola Moto E40,6979,71,0,0,0,Tiger T700,tiger,8,1.8,5000,0,39,4,64,6.5,720x1600,90,Punch Hole,48MP + 2MP + 2MP,48,3,8,1,Android v11,4,Budget,Good
+vivo,Vivo Y21 2021,13490,69,0,0,0,Helio P35,helio,8,2.3,5000,1,18,4,64,6.51,720x1600,120,Punch Hole,13MP + 2MP,13,2,8,1,Android v11,3,Budget,Average
+xiaomi,Xiaomi 12 Pro 5G,55999,89,1,1,1,Snapdragon 8 Gen1,snapdragon,8,3,4600,1,120,8,256,6.73,1440x3200,120,Punch Hole,50MP + 50MP + 50MP,50,3,32,1,Android v13,4,Premium,Very Good
+samsung,Samsung Galaxy S22 Plus 5G,64999,87,1,1,0,Snapdragon  8 Gen1,snapdragon,8,3,4500,1,45,8,128,6.6,1080x2340,120,Punch Hole,50MP + 12MP + 10MP,50,3,10,1,Android v13,4,Sub-Flagship,Very Good
+xiaomi,Xiaomi Mi 10T 5G,19999,80,1,1,0,Snapdragon 865,snapdragon,8,2.84,5000,1,33,6,128,6.67,2400x1080,144,Punch Hole,64MP + 13MP + 5MP,64,3,20,1,Android v13,4,Lower-MidRange,Very Good
+apple,Apple iPhone 12 Pro,109900,79,1,1,0,Bionic A14,bionic,6,3.1,4845.19,1,39,6,128,5.4,1080x2340,120,Punch Hole,12MP + 12MP,12,2,12,1,Android v13,3,Flagship,Good
+apple,Apple iPhone 11 ,48900,75,0,1,0,A13 Bionic,a13,6,2.65,3110,0,39,4,128,6.1,828x1792,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v13,3,Premium,Good
+tecno,Tecno Spark Go 2024 ,6999,66,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,10,4,128,6.56,720x1600,90,Punch Hole,13MP,13,2,8,1,Android v13,3,Budget,Average
+samsung,Samsung Galaxy A14 5G ,14499,76,1,0,0,Exynos 1330,exynos,8,2.4,5000,1,15,4,128,6.6,1080x2408,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,13,1,Android v13,4,Budget,Good
+itel,itel A70 4G ,7499,61,0,0,0,Unisoc T603,unisoc,8,2.3,5000,1,10,4,256,6.6,720x1612,120,Punch Hole,13MP,13,2,8,1,Android v13,3,Budget,Average
+poco,Poco M6 5G ,10499,75,1,0,1,Dimensity 6100 Plus,dimensity,8,2.2,5000,1,18,6,128,6.74,720x1650,90,Punch Hole,50MP,50,2,5,1,Android v13,3,Budget,Good
+google,Google Pixel 8 Pro ,113999,82,1,1,0,Tensor G3,tensor,9,3,5050,1,30,12,256,6.7,1344x2992,120,Punch Hole,50MP + 48MP + 48MP,50,3,5,1,Android v13,4,Flagship,Very Good
+lava,Lava Blaze 2 5G ,10999,75,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,18,6,128,6.5,720x1600,90,Punch Hole,50MP + 0.08MP,50,2,8,1,Android v13,3,Budget,Good
+lava,Lava Blaze 5G ,9799,77,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,0,39,8,128,6.5,1600x720,90,Water Drop Notch,50MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+xiaomi,Xiaomi Redmi A2 ,5299,63,0,0,0,Helio G36,helio,8,2.2,5000,1,10,2,64,6.52,720x1600,120,Punch Hole,8MP + Depth Sensor,8,2,5,1,Android v13,3,Budget,Average
+itel,itel S23,7227,75,0,0,0,,snapdragon,8,1.6,5000,1,10,8,128,6.6,1600x720,90,Water Drop Notch,50MP + 0.08MP,50,2,8,1,Android v13,3,Budget,Good
+realme,Realme Narzo N53 ,9699,74,0,0,0,Unisoc T612,unisoc,8,1.8,5000,1,33,6,128,6.74,720x1600,90,Punch Hole,50MP + Depth Sensor,50,2,8,1,Android v13,3,Budget,Good
+vivo,Vivo X90 ,49990,89,1,1,1,Dimensity 9200,dimensity,8,3.05,4810,1,120,12,256,6.78,1260x2800,120,Punch Hole,50MP + 12MP + 12MP,50,3,32,1,Android v13,4,Premium,Very Good
+realme,Realme Narzo N55,10100,73,0,0,0,Helio G88,helio,8,2,5000,1,33,4,64,6.72,1080x2400,90,Punch Hole,64MP + 2MP,64,2,8,1,Android v13,3,Budget,Good
+lava,Lava Blaze 5G ,9799,75,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,0,39,6,128,6.5,1600x720,90,Water Drop Notch,50MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+infinix,Infinix Zero 5G 2023 Turbo,19999,85,1,0,0,Dimensity 1080,dimensity,8,2.6,5000,1,33,8,256,6.78,1080x2460,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy A23 5G ,22999,81,1,0,0,Snapdragon 695,snapdragon,8,2.2,5000,1,25,8,128,6.6,1080x2408,120,Water Drop Notch,50MP,50,4,8,1,Android v12,5,Lower-MidRange,Very Good
+iqoo,iQOO 11 ,44999,89,1,1,0,Snapdragon 8 Gen2,snapdragon,8,3.2,5000,1,120,16,256,6.78,1440x3200,144,Punch Hole,50MP + 13MP + 8MP,50,3,16,1,Android v13,4,Premium,Very Good
+realme,Realme 10 ,15899,79,0,0,0,Helio G99,helio,8,2.2,5000,1,33,8,128,6.4,1080x2400,90,Punch Hole,50MP + 2MP,50,2,16,1,Android v12,3,Lower-MidRange,Good
+samsung,Samsung Galaxy M04 ,7280,68,0,0,0,Helio P35,helio,8,2.3,5000,1,15,4,128,6.5,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v12,3,Budget,Average
+tecno,Tecno Phantom X2 Pro,44899,89,1,1,0,Dimensity 9000,dimensity,8,3.05,5160,1,45,12,256,6.8,1080x2400,120,Punch Hole,50MP + 50MP + 13MP,50,3,32,1,Android v13,4,Premium,Very Good
+vivo,Vivo Y22 ,13775,75,0,0,0,Helio G70,helio,8,2,5000,1,18,6,128,6.55,720x1612,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+vivo,Vivo Y16,9870,65,0,0,0,Helio P35,helio,8,2.3,5000,1,10,3,32,6.51,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v12,3,Budget,Average
+xiaomi,Xiaomi Redmi 10A ,8299,66,0,0,0,Helio  G25,helio,8,2,5000,0,39,4,64,6.53,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v11,4,Budget,Average
+oppo,OPPO F21 Pro 4G,16377,82,0,0,0,Snapdragon  680,snapdragon,8,2.4,4500,1,33,8,128,6.5,1080x2400,90,Punch Hole,64MP + 2MP + 2MP,64,3,32,1,Android v12,4,Lower-MidRange,Very Good
+motorola,Motorola Moto G52,10999,75,0,1,0,Snapdragon 680,snapdragon,8,2.4,5000,1,33,4,64,6.6,2460x1080,90,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v12,4,Budget,Good
+poco,POCO M4 Pro 4G ,10999,81,0,0,1,Helio G96,helio,8,2.05,5000,1,33,8,128,6.43,1080x2400,90,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Budget,Very Good
+oneplus,OnePlus Nord 2T 5G,28999,84,1,1,0,Dimensity  1300,dimensity,8,3,4500,1,80,8,128,6.43,1080x2400,90,Punch Hole,50MP + 8MP + 2MP,50,3,32,1,Android v13,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi 11 Prime,8499,74,0,0,1,Helio G99,helio,8,2.2,5000,1,18,4,64,6.58,1080x2400,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+realme,Realme C35,8720,71,0,0,0,Tiger  T616,tiger,8,2,5000,1,18,4,64,6.6,1080x2408,120,Punch Hole,50MP + 2MP + 0.3MP,50,3,8,1,Android v11,4,Budget,Good
+samsung,Samsung Galaxy A13,10799,75,0,0,0,,snapdragon,8,2,5000,1,25,4,64,6.6,1080x2408,120,Punch Hole,50MP,50,4,8,1,Android v12,5,Budget,Good
+samsung,Samsung Galaxy A53 5G,28990,87,1,1,0,Exynos 1280,exynos,8,2.4,5000,1,25,6,128,6.5,1080x2400,120,Punch Hole,64MP,64,4,32,1,Android v12,5,Upper-MidRange,Very Good
+vivo,Vivo X80 Pro 5G,59999,91,1,1,1,Snapdragon  8 Gen1,snapdragon,8,3,4700,1,80,12,256,6.78,1440x3200,120,Punch Hole,50MP,50,4,32,1,Android v12,5,Premium,Excellent
+poco,Poco M4 Pro 5G,11990,76,1,0,1,Dimensity  810 5G,dimensity,8,2.4,5000,1,33,4,64,6.6,1080x2400,90,Punch Hole,50MP + 8MP,50,2,16,1,Android v11,3,Budget,Good
+apple,Apple iPhone 13 Pro Max ,179900,86,1,1,0,Bionic A15,bionic,6,3.22,4352,1,39,6,1,6.7,1284x2778,120,Small Notch,12MP + 12MP + 12MP,12,3,12,1,iOS v15,4,Flagship,Very Good
+realme,Realme Narzo 50 Pro 5G,21850,78,1,0,0,Dimensity  920 5G,dimensity,8,2.5,5000,1,33,6,128,6.4,1080x2400,90,Punch Hole,48MP + 8MP + 2MP,48,3,16,1,Android v13,4,Lower-MidRange,Good
+vivo,Vivo V21 5G,23490,85,1,0,0,Dimensity 800U,dimensity,8,2.4,4000,1,33,8,128,6.44,1080x2400,90,Water Drop Notch,64MP + 8MP + 2MP,64,3,44,1,Android v11,4,Lower-MidRange,Very Good
+realme,Realme 8 5G ,17290,80,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,8,128,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Mi 11i 5G,19989,81,1,0,1,Dimensity  920 5G,dimensity,8,2.5,5160,1,67,6,128,6.67,2400x1080,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v11,4,Lower-MidRange,Very Good
+poco,Poco X3 Pro ,19999,85,0,0,1,Snapdragon 860,snapdragon,8,2.96,5160,1,33,8,128,6.67,1080x2400,120,Punch Hole,48MP,48,4,20,1,Android v11,5,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 10S,14999,78,0,0,1,Helio G95,helio,8,2.05,5000,1,33,6,64,6.43,1080x2400,120,Punch Hole,64MP,64,4,13,1,Android v11,5,Budget,Good
+oneplus,OnePlus 9R 5G,30990,86,1,1,0,Snapdragon 870,snapdragon,8,3.2,4500,1,65,8,128,6.55,1080x2400,120,Punch Hole,48MP,48,4,16,1,Android v11,5,Upper-MidRange,Very Good
+iqoo,iQOO 9 5G,42990,84,1,0,0,Snapdragon  888+,snapdragon,8,2.9,4350,1,120,8,128,6.56,1080x2376,120,Punch Hole,48MP + 13MP + 13MP,48,3,16,1,Android v13,4,Premium,Very Good
+oneplus,OnePlus 9 Pro,44990,88,1,1,0,Snapdragon 888,snapdragon,8,2.84,4500,1,65,8,128,6.7,1440x3216,120,Punch Hole,48MP,48,4,16,1,Android v11,5,Premium,Very Good
+samsung,Samsung Galaxy S21 Plus,48990,88,1,1,0,Exynos 2100,exynos,8,2.9,4800,1,25,8,128,6.7,1080x2400,120,Punch Hole,64MP + 12MP + 12MP,64,3,10,1,Android v13,4,Premium,Very Good
+samsung,Samsung Galaxy S20,34999,87,0,1,0,Exynos  990,exynos,8,2.73,4000,1,25,8,128,6.2,1440x3200,120,Punch Hole,64MP + 12MP + 12MP,64,3,10,1,Android v10.0,4,Upper-MidRange,Very Good
+motorola,Motorola Edge Plus,49999,89,1,1,0,Snapdragon  865,snapdragon,8,2.84,5000,1,18,12,256,6.7,1080x2340,90,Punch Hole,108MP + 16MP + 8MP,108,3,25,1,Android v13,4,Premium,Very Good
+samsung,Samsung Galaxy A52,24990,83,0,0,0,Snapdragon  720G,snapdragon,8,2.3,4500,1,25,6,128,6.5,1080x2400,90,Punch Hole,64MP,64,4,32,1,Android v11,5,Lower-MidRange,Very Good
+apple,Apple iPhone 11 Pro Max,109900,77,0,1,0,A13 Bionic,a13,6,2.65,3500,1,18,4,64,6.5,1242x2688,120,Punch Hole,12MP + 12MP + 12MP,12,3,12,1,iOS v13,4,Flagship,Good
+realme,Realme 1,12990,69,0,0,0,Helio P60,helio,8,2,3410,0,39,6,128,6,1080x2160,120,Punch Hole,50MP + 2MP,50,3,8,1,Android v8.1 (Oreo),4,Budget,Average
+samsung,Samsung Galaxy S24 Plus ,109999,90,1,1,0,Exynos 2400,exynos,10,3.2,4900,1,45,12,512,6.7,1440x3120,120,Punch Hole,50MP + 12MP + 10MP,50,3,12,1,Android v13,4,Flagship,Excellent
+realme,Realme C51 ,8487,70,0,0,0,Unisoc T612,unisoc,8,1.8,5000,1,33,4,128,6.74,720x1600,90,Water Drop Notch,50MP + 0.08MP,50,2,5,1,Android v13,3,Budget,Good
+vivo,Vivo Y17s ,11499,72,0,0,0,Helio G85,helio,8,2,5000,1,15,4,128,6.56,720x1612,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+lava,Lava Blaze Pro 5G,12999,79,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,33,8,128,6.78,1080x2460,120,Punch Hole,50MP + Depth Sensor,50,2,8,1,Android v13,3,Budget,Good
+apple,Apple iPhone 15 ,99990,85,1,1,0,Bionic  A16,bionic,6,3.46,3349,1,39,6,512,6.1,1179x2556,120,Punch Hole,48MP + 12MP,48,2,12,1,iOS v17,3,Flagship,Very Good
+oneplus,OnePlus Nord N20 SE ,13288,77,0,0,0,Helio G35,helio,8,2.3,5000,1,33,4,128,6.56,720x1612,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+xiaomi,Xiaomi Redmi 12 4G ,10149,77,0,0,1,Helio G88,helio,8,2,5000,1,18,6,128,6.79,1080x2460,90,Punch Hole,50MP + 8MP + 2MP,50,3,8,1,Android v13,4,Budget,Good
+realme,Realme 11 Pro ,27999,85,1,0,0,Dimensity 7050,dimensity,8,2.6,5000,1,67,12,256,6.7,1080x2412,120,Punch Hole,100MP + 2MP,100,2,16,1,Android v13,3,Upper-MidRange,Very Good
+tecno,Tecno Spark 10 5G ,14099,79,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,18,8,256,6.56,720x1612,90,Water Drop Notch,50MP,50,2,8,1,Android v13,3,Budget,Good
+tecno,Tecno Spark 10 5G ,13660,78,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,18,8,128,6.56,720x1612,90,Water Drop Notch,50MP,50,2,8,1,Android v13,3,Budget,Good
+ikall,iKall Z19 Pro,6999,60,0,0,0,,snapdragon,4,1.6,5000,0,39,4,64,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,8,1,Android v11.0,4,Budget,Average
+samsung,Samsung Galaxy Z Flip 5,99899,88,1,1,0,Snapdragon 8 Gen 2,snapdragon,8,3.2,3700,1,25,8,256,6.7,1080x2640,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Flagship,Very Good
+infinix,Infinix Hot 20,10990,75,1,0,0,Dimensity 810,dimensity,8,2.4,5000,1,18,4,64,6.6,1080x2408,120,Water Drop Notch,50MP,50,2,8,1,Android v12,3,Budget,Good
+tecno,Tecno Phantom X2,33979,85,1,1,0,Dimensity 9000,dimensity,8,3.05,5160,1,45,8,256,6.8,1080x2400,120,Punch Hole,64MP + 13MP + 2MP,64,3,32,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy A53 ,29990,89,1,1,0,Exynos 1280,exynos,8,2.4,5000,1,25,8,256,6.5,1080x2400,120,Punch Hole,64MP,64,4,32,1,Android v12,5,Upper-MidRange,Very Good
+oppo,OPPO A17K,8499,62,0,0,0,Helio G35,helio,8,2.3,5000,0,39,3,64,6.56,720x1612,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v12,4,Budget,Average
+oppo,OPPO A77,9999,70,0,0,0,Helio G35,helio,8,2.3,5000,1,33,4,64,6.56,720x1600,120,Punch Hole,50MP,50,2,8,1,Android v12,3,Budget,Good
+xiaomi,Xiaomi Redmi 11 Prime 5G,11175,74,1,0,1,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,4,64,6.58,1080x2408,90,Water Drop Notch,50MP + 2MP,50,2,5,1,Android v12,3,Budget,Good
+oneplus,OnePlus 10T,41499,85,1,1,0,Snapdragon 8+ Gen1,snapdragon,8,3.2,4800,1,150,8,128,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Premium,Very Good
+motorola,Motorola Edge 30 5G ,24990,85,1,1,0,Snapdragon 778G+,snapdragon,8,2.5,4020,1,33,8,128,6.5,1080x2400,144,Punch Hole,50MP + 50MP + 2MP,50,3,32,1,Android v13,4,Lower-MidRange,Very Good
+motorola,Motorola Moto G32,10950,75,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,33,4,64,6.55,1080x2400,90,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v12,4,Budget,Good
+realme,Realme 9 4G ,14290,84,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,33,8,128,6.4,1080x2400,90,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v12,4,Budget,Very Good
+motorola,Motorola Moto G82 5G,17480,83,1,1,0,Snapdragon 695,snapdragon,8,2.2,5000,1,30,6,128,6.6,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Very Good
+motorola,Motorola Edge 30 5G,22490,83,1,1,0,Snapdragon 778G+,snapdragon,8,2.5,4020,1,33,6,128,6.5,1080x2400,144,Punch Hole,50MP + 50MP + 2MP,50,3,32,1,Android v13,4,Lower-MidRange,Very Good
+realme,Realme GT Neo 3 5G,25999,83,1,1,0,Dimensity  8100,dimensity,8,2.85,5000,1,80,8,128,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 11T 5G ,16390,83,1,0,1,Dimensity  810 5G,dimensity,8,2.4,5000,1,33,8,128,6.6,1080x2400,90,Punch Hole,50MP + 8MP,50,2,16,1,Android v11,3,Lower-MidRange,Very Good
+motorola,Motorola Moto G71 5G,17590,80,1,1,0,Snapdragon 695,snapdragon,8,2.2,5000,1,33,6,128,6.4,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v11,4,Lower-MidRange,Very Good
+apple,Apple iPhone 13 ,69999,80,1,1,0,Bionic A15,bionic,6,3.22,3240,1,39,4,512,6.1,1170x2532,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v15,3,Sub-Flagship,Very Good
+xiaomi,Xiaomi Mi 11 Lite NE 5G,23749,83,1,1,1,Snapdragon  778G,snapdragon,8,2.4,4250,1,33,6,128,6.55,1080x2400,90,Punch Hole,64MP + 8MP + 5MP,64,3,20,1,Android v11,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Mi 11T Pro 5G,39999,86,1,1,1,Snapdragon  888,snapdragon,8,2.84,5000,1,120,8,128,6.67,1080x2400,120,Punch Hole,108MP + 8MP + 5MP,108,3,16,1,Android v13,4,Upper-MidRange,Very Good
+oneplus,OnePlus Nord 2 5G ,38999,86,1,1,0,Dimensity  1200 AI,dimensity,8,3,4500,1,65,12,256,6.43,1080x2400,90,Punch Hole,50MP + 8MP + 2MP,50,3,32,1,Android v13,4,Upper-MidRange,Very Good
+realme,Realme GT Master Edition 5G,23999,84,1,1,0,Snapdragon  778G,snapdragon,8,2.4,4300,1,65,8,128,6.43,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,32,1,Android v13,4,Lower-MidRange,Very Good
+jio,Jio JioPhone Next,4850,54,0,0,0,215,snapdragon,4,1.3,3500,0,39,2,32,5.45,720x1440,120,Punch Hole,50MP + 2MP,50,3,8,1,Android v11,4,Budget,Poor
+realme,Realme 9 Pro 5G,21999,80,1,0,0,Snapdragon  695,snapdragon,8,2.2,5000,1,33,6,128,6.6,1080x2412,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v12,4,Lower-MidRange,Very Good
+oppo,OPPO A74 5G,17990,77,1,0,0,Snapdragon  480,snapdragon,8,2,5000,1,18,6,128,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,8,1,Android v11,4,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi Note 10 Pro Max ,18820,82,0,0,1,Snapdragon  732G,snapdragon,8,2.3,5020,1,33,6,128,6.67,1080x2400,120,Punch Hole,108MP,108,4,16,1,Android v11,5,Lower-MidRange,Very Good
+samsung,Samsung Galaxy F62 ,27999,87,0,1,0,Exynos 9825,exynos,8,2.73,7000,1,25,8,128,6.7,1080x2400,120,Punch Hole,64MP,64,4,32,1,Android v11,5,Upper-MidRange,Very Good
+oppo,OPPO F19 Pro Plus 5G,27890,82,1,0,0,Dimensity 800U,dimensity,8,2.4,4310,1,50,8,128,6.43,1080x2400,120,Punch Hole,48MP,48,4,16,1,Android v11,5,Upper-MidRange,Very Good
+apple,Apple iPhone 12 Mini ,64900,75,1,1,0,Bionic A14,bionic,6,3.1,4845.19,1,39,4,128,6.1,1170x2532,120,Punch Hole,12MP + 12MP + 12MP,12,3,12,1,Android v13,4,Sub-Flagship,Good
+samsung,Samsung Galaxy S20 FE,26640,86,0,1,0,Exynos 990,exynos,8,2.73,4500,1,25,8,128,6.5,1080x2400,120,Punch Hole,12MP + 12MP + 8MP,12,3,32,1,Android v10.0,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 10,12764,75,0,0,1,Snapdragon 678,snapdragon,8,2.2,5000,1,33,4,64,6.43,1080x2400,120,Punch Hole,48MP,48,4,13,1,Android v11,5,Budget,Good
+samsung,Samsung Galaxy S20 Plus,39990,88,0,1,0,Exynos 990,exynos,8,2.73,4500,1,25,8,128,6.7,1440x3200,120,Punch Hole,64MP,64,4,10,1,Android v10,5,Upper-MidRange,Very Good
+apple,Apple iPhone 12 Pro Max,119900,80,1,1,0,Bionic A14,bionic,6,3.1,4845.19,1,39,6,128,5.4,1080x2340,120,Punch Hole,12MP + 12MP,12,2,12,1,Android v13,3,Flagship,Very Good
+apple,Apple iPhone XR,47900,66,0,1,0,Apple A12,apple,6,2.49,2942,1,39,3,64,6.1,1792x828,120,Punch Hole,50MP + 2MP,50,3,7,1,iOS v12,4,Premium,Average
+ikall,iKall Z2 ,5299,54,0,0,0,,snapdragon,4,1.3,4000,0,39,4,32,5.99,480x960,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v8.1 (Oreo),4,Budget,Poor
+lava,Lava Yuva 3 ,7289,66,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,18,4,128,6.5,1600x720,90,Punch Hole,13MP,13,3,5,1,Android v13,4,Budget,Average
+itel,itel A05s New,5993,53,0,0,0,Unisoc SC9863A1,unisoc,8,1.6,4000,0,39,2,32,6.6,720x1612,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v12,4,Budget,Poor
+itel,itel P55 4G ,8984,73,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,18,8,128,6.6,720x1612,90,Punch Hole,50MP + 0.08MP,50,2,8,1,Android v13,3,Budget,Good
+lava,Lava Yuva 3,6749,64,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,18,4,64,6.5,1600x720,90,Punch Hole,13MP,13,3,5,1,Android v13,4,Budget,Average
+samsung,Samsung Galaxy A05 ,11999,74,0,0,0,Helio G85,helio,8,2,5000,1,25,6,128,6.7,720x1600,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+apple,Apple iPhone 15 Plus ,112999,86,1,1,0,Bionic  A16,bionic,6,3.46,4383,1,39,6,512,6.7,1290x2796,120,Punch Hole,48MP + 12MP,48,2,12,1,iOS v17,3,Flagship,Very Good
+xiaomi,Xiaomi Redmi A2 Plus ,7650,67,0,0,0,Helio G36,helio,8,2.2,5000,1,10,4,128,6.52,720x1600,120,Punch Hole,8MP + 0.08MP,8,2,5,1,Android v13,3,Budget,Average
+samsung,Samsung Galaxy Z Fold 5 ,184999,93,1,1,0,Snapdragon 8 Gen 2,snapdragon,8,3.36,4400,1,25,12,1,7.6,1812x2176,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Flagship,Excellent
+vivo,Vivo Y56 5G ,15999,78,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,4,128,6.58,1080x2408,120,Punch Hole,50MP + 2MP,50,2,16,1,Android v13,3,Lower-MidRange,Good
+oppo,OPPO Find N3 Flip,94999,91,1,1,0,Dimensity 9200,dimensity,8,3.05,4300,1,44,12,256,6.8,1080x2520,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Flagship,Excellent
+vivo,Vivo Y100A ,23999,83,1,0,0,Snapdragon 695,snapdragon,8,2.2,4500,1,44,8,256,6.38,1080x2400,90,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v13,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 12 Pro Plus ,30999,87,1,0,1,Dimensity 1080,dimensity,8,2.6,4980,1,120,12,256,6.67,1080x2400,120,Punch Hole,200MP + 8MP + 2MP,200,3,16,1,Android v12,4,Upper-MidRange,Very Good
+realme,Realme GT Neo 3T ,25999,81,1,0,0,Snapdragon 870,snapdragon,8,3.2,5000,1,80,8,128,6.62,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+apple,Apple iPhone 14 Plus ,81999,82,1,1,0,Bionic A15,bionic,6,3.22,4325,1,39,6,256,6.7,1284x2778,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v16,3,Flagship,Very Good
+apple,Apple iPhone 14 ,86999,82,1,1,0,Bionic A15,bionic,6,3.22,3279,1,39,6,512,6.1,1170x2532,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v16,3,Flagship,Very Good
+realme,Realme C33 ,9998,67,0,0,0,Unisoc T612,unisoc,8,1.8,5000,0,39,4,64,6.5,720x1600,120,Punch Hole,50MP + 0.3MP,50,2,5,1,Android v12,3,Budget,Average
+motorola,Motorola Moto G72 4G,16999,82,0,0,0,Helio  G99,helio,8,2.2,5000,1,33,6,128,6.55,1080x2400,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v12,4,Lower-MidRange,Very Good
+realme,Realme C33,8490,64,0,0,0,Unisoc T612,unisoc,8,1.8,5000,0,39,3,32,6.5,720x1600,120,Punch Hole,50MP + 0.3MP,50,2,5,1,Android v12,3,Budget,Average
+tecno,Tecno Spark 9 ,5999,65,0,0,0,Helio G37,helio,8,2.3,5000,0,39,4,64,6.6,720x1600,90,Water Drop Notch,13MP,13,2,8,1,Android v12,3,Budget,Average
+xiaomi,Xiaomi Redmi K50i ,25850,85,1,0,1,Dimensity  8100,dimensity,8,2.85,5080,1,67,8,256,6.6,1080x2460,144,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+nothing,Nothing Phone 1 ,33999,86,1,1,0,Snapdragon 778G Plus,snapdragon,8,2.5,4500,1,33,8,256,6.55,1080x2400,120,Punch Hole,50MP + 50MP,50,2,16,1,Android v13,3,Upper-MidRange,Very Good
+samsung,Samsung Galaxy F13 ,9839,75,0,1,0,Exynos 850,exynos,8,2,6000,1,15,4,128,6.6,2408x1080,120,Punch Hole,50MP + 5MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+oneplus,OnePlus Nord N20 SE,12999,72,0,0,0,Helio G35,helio,8,2.3,5000,1,33,4,64,6.56,720x1612,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+vivo,Vivo T1 Pro 5G ,22555,84,1,0,0,Snapdragon 778G,snapdragon,8,2.4,4700,1,66,8,128,6.44,1080x2404,90,Water Drop Notch,64MP + 8MP + 2MP,64,3,16,1,Android v12,4,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi 10 Power,9598,77,0,0,1,Snapdragon 680,snapdragon,8,2.4,6000,1,18,8,128,6.7,720x1650,120,Punch Hole,50MP + 2MP,50,2,5,1,Android v11,3,Budget,Good
+samsung,Samsung Galaxy A73 5G ,48500,90,1,1,0,Snapdragon 778G,snapdragon,8,2.4,5000,1,25,8,256,6.7,1080x2400,120,Punch Hole,108MP,108,4,32,1,Android v12,5,Premium,Excellent
+samsung,Samsung Galaxy A33 5G ,23990,85,1,1,0,Exynos  1280,exynos,8,2.4,5000,1,25,8,128,6.4,1080x2400,90,Punch Hole,48MP,48,4,13,1,Android v12,5,Lower-MidRange,Very Good
+poco,Poco X4 Pro 5G ,17399,84,1,0,1,Snapdragon 695,snapdragon,8,2.2,5000,1,67,8,128,6.67,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+realme,Realme GT Neo 3 5G ,25290,83,1,1,0,Dimensity  8100,dimensity,8,2.85,5000,1,80,8,256,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+iqoo,iQOO Z6 5G ,17999,82,1,0,0,Snapdragon  695,snapdragon,8,2.2,5000,1,18,8,128,6.58,1080x2408,120,Water Drop Notch,50MP + 2MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Very Good
+apple,Apple iPhone SE 3 2022 ,54900,61,1,1,0,Bionic  A15,bionic,6,3.22,4845.19,1,39,6,128,6.7,1284x2778,120,Punch Hole,12MP + 12MP + 12MP,12,3,12,1,Android v13,4,Premium,Average
+realme,Realme 9 5G SE,20499,80,1,0,0,Snapdragon  778G,snapdragon,8,2.4,5000,1,30,6,128,6.6,1080x2412,144,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Very Good
+realme,Realme Narzo 50 ,14900,77,0,0,0,Helio G96,helio,8,2,5000,1,33,6,128,6.6,1080x2412,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v11,4,Budget,Good
+realme,Realme Narzo 50,9499,74,0,0,0,Helio G96,helio,8,2,5000,1,33,4,64,6.6,1080x2412,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v11,4,Budget,Good
+samsung,Samsung Galaxy S22 Ultra 5G ,94999,94,1,1,0,Snapdragon  8 Gen1,snapdragon,8,3,5000,1,45,12,512,6.8,1440x3080,120,Punch Hole,108MP,108,4,40,1,Android v13,5,Flagship,Excellent
+xiaomi,Xiaomi Redmi Note 11S ,13990,84,0,0,1,Helio  G96,helio,8,2.05,5000,1,33,8,128,6.43,1080x2400,90,Punch Hole,108MP,108,4,16,1,Android v11,5,Budget,Very Good
+samsung,Samsung Galaxy F23 5G,17499,78,1,1,0,Snapdragon 750G,snapdragon,8,2.2,5000,1,25,4,128,6.6,1080x2408,120,Water Drop Notch,50MP + 8MP + 2MP,50,3,8,1,Android v12,4,Lower-MidRange,Good
+samsung,Samsung Galaxy A04s,10980,70,0,0,0,Exynos 850,exynos,8,2,5000,1,15,4,64,6.5,720x1600,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,5,1,Android v12,4,Budget,Good
+iqoo,iQOO Z6 5G,13949,78,1,0,0,Snapdragon  695,snapdragon,8,2.2,5000,1,18,4,128,6.58,1080x2408,120,Water Drop Notch,50MP + 2MP + 2MP,50,3,16,1,Android v12,4,Budget,Good
+tecno,Tecno Spark 9T,6299,72,0,0,0,Helio G35,helio,8,2.3,5000,1,18,4,64,6.6,1080x2408,120,Punch Hole,50MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+samsung,Samsung Galaxy Z Fold 4,109990,91,1,1,0,Snapdragon  8+ Gen1,snapdragon,8,3.2,4400,1,25,12,256,7.6,1812x2176,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v12,4,Flagship,Excellent
+realme,Realme 9 Pro Plus 5G,23999,78,1,0,0,Dimensity  920 5G,dimensity,8,2.5,4500,1,60,6,128,6.4,1080x2400,90,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Good
+vivo,Vivo X80 5G,54999,86,1,0,0,Dimensity  9000,dimensity,8,3.05,4500,1,80,8,128,6.78,1080x2400,120,Punch Hole,50MP + 12MP + 12MP,50,3,32,1,Android v12,4,Premium,Very Good
+oppo,OPPO Reno7 Pro 5G,33999,87,1,1,0,Dimensity  1200 Max,dimensity,8,3,4500,1,65,12,256,6.55,1080x2400,90,Punch Hole,50MP + 8MP + 2MP,50,3,32,1,Android v11,4,Upper-MidRange,Very Good
+iqoo,iQOO Z5 5G,24990,82,1,0,0,Snapdragon 778G,snapdragon,8,2.4,5000,1,44,8,128,6.67,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+tecno,Tecno Phantom X,21997,84,0,0,0,Helio G95,helio,8,2.05,4700,1,33,8,256,6.7,1080x2340,90,Punch Hole,50MP + 13MP + 8MP,50,3,48,2,Android v13,5,Lower-MidRange,Very Good
+realme,Realme 9 4G,14490,81,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,33,6,128,6.4,1080x2400,90,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v12,4,Budget,Very Good
+realme,Realme X7 Max,26999,84,1,1,0,Dimensity 1200,dimensity,8,3,4500,1,50,8,128,6.43,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+realme,Realme 8 ,14499,81,0,0,0,Helio G95,helio,8,2,5000,1,30,6,128,6.4,1080x2400,120,Punch Hole,64MP,64,4,16,1,Android v11,5,Budget,Very Good
+poco,Poco X3 Pro,17368,82,0,0,1,Snapdragon 860,snapdragon,8,2.96,5160,1,33,6,128,6.67,1080x2400,120,Punch Hole,48MP,48,4,20,1,Android v11,5,Lower-MidRange,Very Good
+oneplus,OnePlus 9,32990,86,1,1,0,Snapdragon 888,snapdragon,8,2.84,4500,1,39,8,128,6.55,1080x2400,120,Punch Hole,50MP + 48MP + 2MP,50,3,16,1,Android v11,4,Upper-MidRange,Very Good
+apple,Apple iPhone 12 ,63999,78,1,1,0,Bionic A14,bionic,6,3.1,4845.19,1,39,4,256,4.7,750x1334,120,Punch Hole,50MP + 2MP,50,3,7,1,Android v13,4,Sub-Flagship,Good
+samsung,Samsung Galaxy S21,69999,88,1,1,0,Exynos  2100,exynos,8,2.9,4000,1,25,8,128,6.2,1080x2400,120,Punch Hole,64MP + 12MP + 12MP,64,3,10,1,Android v13,4,Sub-Flagship,Very Good
+xiaomi,Xiaomi Redmi 9A,7889,61,0,0,0,Helio G25,helio,8,2,5000,0,39,2,32,6.53,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v10,4,Budget,Average
+samsung,Samsung Galaxy A32,21999,80,0,0,0,Helio G80,helio,8,2,5000,1,15,6,128,6.4,1080x2400,90,Water Drop Notch,64MP,64,4,20,1,Android v11,5,Lower-MidRange,Very Good
+xiaomi,Xiaomi Mi A3 ,17490,77,0,0,1,Snapdragon  665,snapdragon,8,2,4030,1,18,6,128,6.08,720x1560,120,Punch Hole,48MP + 8MP + 2MP,48,3,32,1,Android v9.0 (Pie),4,Lower-MidRange,Good
+xiaomi,Xiaomi Poco F1 ,11399,78,0,0,0,Snapdragon 845,snapdragon,8,2.8,4000,1,39,6,128,6.18,1080x2246,120,Punch Hole,12MP + 5MP,12,2,20,1,Android v8.1 (Oreo),3,Budget,Good
+apple,Apple iPhone 8 Plus,49900,68,0,1,0,Apple A11,apple,6,2.39,2691,1,39,3,64,5.5,1080x1920,120,Punch Hole,12MP + 12MP,12,2,7,1,iOS v11,3,Premium,Average
+tecno,Tecno Spark 20 ,11499,78,0,0,0,Helio G85,helio,8,2,5000,1,18,8,256,6.56,720x1612,90,Punch Hole,50MP,50,2,32,1,Android v13,3,Budget,Good
+itel,itel P55 4G,7499,68,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,18,4,128,6.6,720x1612,90,Punch Hole,50MP + 0.08MP,50,2,8,1,Android v13,3,Budget,Average
+itel,itel A70 4G ,6249,59,0,0,0,Unisoc T603,unisoc,8,2.3,5000,1,10,4,64,6.6,720x1612,120,Punch Hole,13MP,13,2,8,1,Android v13,3,Budget,Poor
+tecno,Tecno Spark Go 2024 ,6949,65,0,0,0,Unisoc T606,unisoc,8,1.6,5000,1,10,4,64,6.56,720x1600,90,Punch Hole,13MP,13,2,8,1,Android v13,3,Budget,Average
+poco,Poco C65 ,8299,68,0,0,0,Helio  G85,helio,8,2,5000,1,18,6,128,6.74,720x1600,90,Water Drop Notch,50MP + 2MP,50,3,8,1,Android v13,4,Budget,Average
+nokia,Nokia C32 ,7999,72,0,0,0,Unisoc SC9863A,unisoc,8,1.6,5000,0,39,6,128,6.52,720x1600,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Good
+oppo,Oppo A18 ,10499,65,0,0,0,Helio G85,helio,8,2,5000,0,39,4,128,6.56,720x1612,120,Punch Hole,8MP + 2MP,8,2,5,1,Android v13,3,Budget,Average
+google,Google Pixel 8 ,82999,78,1,1,0,Tensor G3,tensor,9,3,4575,1,30,8,256,6.2,1080x2400,120,Punch Hole,50MP + 12MP,50,2,5,1,Android v13,3,Flagship,Good
+apple,Apple iPhone 15 Pro ,158990,89,1,1,0,Bionic  A17 Pro,bionic,6,3.78,3274,1,39,8,512,6.1,1179x2556,120,Punch Hole,48MP + 12MP + 12MP,48,3,12,1,iOS v17,4,Flagship,Very Good
+apple,Apple iPhone 15 Pro ,156695,89,1,1,0,Bionic  A17 Pro,bionic,6,3.78,3274,1,39,8,1,6.1,1179x2556,120,Punch Hole,48MP + 12MP + 12MP,48,3,12,1,iOS v17,4,Flagship,Very Good
+ikall,iKall S2,9299,68,0,0,0,,snapdragon,4,1.6,6000,0,39,6,128,6.8,720x1600,120,Punch Hole,21MP + 5MP + 2MP,21,3,8,1,Android v13,4,Budget,Average
+tecno,Tecno Camon 20 Avocado Art Edition,12890,83,0,0,0,Helio G85,helio,8,2,5000,1,33,8,256,6.67,1080x2400,120,Punch Hole,64MP + 2MP,64,3,32,1,Android v13,4,Budget,Very Good
+itel,itel Aura 05i,5445,55,0,0,0,Unisoc SC9863A,unisoc,8,1.6,4000,0,39,2,32,6.6,720x1612,120,Punch Hole,50MP + 2MP,50,3,2,1,Android v13,4,Budget,Poor
+itel,itel S23 ,6820,70,0,0,0,,snapdragon,8,1.6,5000,1,10,4,128,6.6,1600x720,90,Water Drop Notch,50MP + 0.08MP,50,2,8,1,Android v13,3,Budget,Good
+ikall,iKall S1,9299,66,0,0,0,Unisoc,unisoc,4,1.6,6000,0,39,6,128,6.8,720x1600,120,Punch Hole,13MP + 5MP + 2MP,13,3,8,1,Android v13,4,Budget,Average
+nokia,Nokia C32 ,7440,69,0,0,0,Unisoc SC9863A,unisoc,8,1.6,5000,0,39,4,128,6.52,720x1600,120,Punch Hole,50MP + 2MP,50,2,8,1,Android v13,3,Budget,Average
+vivo,Vivo Y100A,21999,82,1,0,0,Snapdragon 695,snapdragon,8,2.2,4500,1,44,8,128,6.38,1080x2400,90,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v13,4,Lower-MidRange,Very Good
+tecno,Tecno Pova 5 4G,11998,79,0,0,0,Helio G99,helio,8,2.2,6000,1,45,8,128,6.78,1080x2460,120,Punch Hole,50MP + 0.08MP,50,2,8,1,Android v13,3,Budget,Good
+tecno,Tecno Spark 10,9485,76,0,0,0,Helio G37,helio,8,2.3,5000,1,18,8,128,6.56,720x1612,90,Water Drop Notch,50MP,50,2,8,1,Android v13,3,Budget,Good
+vivo,Vivo V27 Pro ,36990,85,1,0,0,Dimensity 8200,dimensity,8,3.1,4600,1,66,8,256,6.78,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,50,1,Android v13,4,Upper-MidRange,Very Good
+infinix,Infinix Hot 20 ,12999,78,1,0,0,Dimensity 810,dimensity,8,2.4,5000,1,18,6,128,6.6,1080x2408,120,Water Drop Notch,50MP,50,2,8,1,Android v12,3,Budget,Good
+motorola,Motorola Moto G13,8999,74,0,0,0,Helio G85,helio,8,2,5000,1,10,4,128,6.5,720x1600,90,Punch Hole,50MP + 2MP + 2MP,50,3,8,1,Android v13,4,Budget,Good
+oppo,OPPO Find N2 Flip,74990,89,1,1,0,Dimensity 9000 Plus,dimensity,8,3.2,4300,1,44,8,256,6.8,1080x2520,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Sub-Flagship,Very Good
+vivo,Vivo Y02,7999,54,0,0,0,Helio,helio,8,2.3,5000,1,10,3,32,6.51,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v12,4,Budget,Poor
+motorola,Motorola Moto E22s,6999,70,0,0,0,Helio G37,helio,8,2.3,5000,1,10,4,64,6.5,720x1600,90,Punch Hole,16MP + 2MP,16,2,8,1,Android v12,3,Budget,Good
+infinix,Infinix Note 12i ,7899,73,0,0,0,Helio G85,helio,8,2,5000,1,33,4,64,6.7,1080x2400,120,Punch Hole,50MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+realme,Realme GT Neo 3T ,27979,82,1,0,0,Snapdragon 870,snapdragon,8,3.2,5000,1,80,8,256,6.62,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v13,4,Upper-MidRange,Very Good
+oppo,OPPO F21s Pro,23297,82,1,0,0,Snapdragon  695,snapdragon,8,2.2,4500,1,33,8,128,6.43,1080x2400,120,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v12,4,Lower-MidRange,Very Good
+oppo,OPPO F21s Pro 4G,17799,82,0,0,0,Snapdragon  680,snapdragon,8,2.4,4500,1,33,8,128,6.43,1080x2400,90,Punch Hole,64MP + 2MP + 2MP,64,3,32,1,Android v12,4,Lower-MidRange,Very Good
+apple,Apple iPhone 14 Plus ,99990,83,1,1,0,Bionic A15,bionic,6,3.22,4325,1,39,6,512,6.7,1284x2778,120,Punch Hole,12MP + 12MP,12,2,12,1,iOS v16,3,Flagship,Very Good
+xiaomi,Xiaomi Redmi 11 Prime ,8999,76,0,0,1,Helio G99,helio,8,2.2,5000,1,18,6,128,6.58,1080x2400,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+tecno,Tecno Camon 19 Pro Mondrian Edition,14990,84,0,1,0,Helio G96,helio,8,2.05,5000,1,33,8,128,6.8,1080x2460,120,Punch Hole,64MP + 50MP + 2MP,64,3,32,1,Android v12,4,Budget,Very Good
+realme,Realme C30s,6499,58,0,0,0,Unisoc SC9863A,unisoc,8,1.6,5000,1,10,2,32,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v12,4,Budget,Poor
+infinix,Infinix Zero 20,17999,87,0,1,0,Helio G99,helio,8,2.2,4500,1,45,8,128,6.7,1080x2400,90,Water Drop Notch,108MP + 13MP + 2MP,108,3,60,1,Android v12,4,Lower-MidRange,Very Good
+realme,Realme 9i 5G ,16999,78,1,0,0,Dimensity 810 5G,dimensity,8,2.4,5000,1,18,6,128,6.6,1080x2408,90,Punch Hole,50MP + 2MP + 2MP,50,3,8,1,Android v12,4,Lower-MidRange,Good
+vivo,Vivo V25 Pro ,39999,86,1,0,0,Dimensity 1300,dimensity,8,3,4830,1,66,12,256,6.56,1080x2376,120,Punch Hole,64MP + 8MP + 2MP,64,3,32,1,Android v13,4,Upper-MidRange,Very Good
+samsung,Samsung Galaxy M13 5G ,11789,71,1,0,0,Dimensity 700,dimensity,8,2.2,5000,1,15,4,64,6.5,720x1600,90,Water Drop Notch,50MP + 2MP,50,2,5,1,Android v12,3,Budget,Good
+samsung,Samsung Galaxy A04,10999,71,0,0,0,Helio P35,helio,8,2.3,5000,1,39,4,64,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,2,5,1,Android v12,3,Budget,Good
+vivo,Vivo Y75 4G,18290,82,0,0,0,Helio G96,helio,8,2.05,4050,1,44,8,128,6.44,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,44,1,Android v12,4,Lower-MidRange,Very Good
+realme,Realme Narzo 50 Pro 5G ,22999,80,1,0,0,Dimensity 920 5G,dimensity,8,2.5,5000,1,33,8,128,6.4,1080x2400,90,Punch Hole,48MP + 8MP + 2MP,48,3,16,1,Android v13,4,Lower-MidRange,Very Good
+tecno,Tecno Spark 10C,7921,72,0,0,0,Unisoc T606,unisoc,8,2,5000,1,18,8,128,6.6,720x1612,90,Water Drop Notch,16MP,16,2,8,1,Android v12,3,Budget,Good
+infinix,Infinix Smart 7,6999,64,0,0,0,Spreadtrum SC9863A1,spreadtrum,8,1.6,6000,0,39,4,64,6.6,720x1612,120,Punch Hole,13MP,13,2,5,1,Android v12,3,Budget,Average
+vivo,Vivo T1 44W,14499,77,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,44,4,128,6.44,1080x2408,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v12,4,Budget,Good
+motorola,Motorola Moto G52 ,13999,79,0,1,0,Snapdragon 680,snapdragon,8,2.4,5000,1,33,6,128,6.6,2460x1080,90,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v12,4,Budget,Good
+realme,Realme GT 2 ,29999,86,1,1,0,Snapdragon  888,snapdragon,8,2.84,5000,1,65,12,256,6.62,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Upper-MidRange,Very Good
+oppo,OPPO K10 5G,25999,79,1,0,0,Dimensity  810 5G,dimensity,8,2.4,5000,1,33,8,128,6.56,720x1612,90,Water Drop Notch,48MP + 2MP,48,2,8,1,Android v12,3,Upper-MidRange,Good
+poco,Poco X4 Pro 5G ,17380,82,1,0,1,Snapdragon 695,snapdragon,8,2.2,5000,1,67,6,128,6.67,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy A13 ,13999,75,0,0,0,,snapdragon,8,2,5000,1,25,4,128,6.6,1080x2408,120,Punch Hole,50MP,50,4,8,1,Android v12,5,Budget,Good
+oppo,OPPO K10,18999,78,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,33,6,128,6.59,1080x2412,90,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v11,4,Lower-MidRange,Good
+oppo,OPPO A96 4G,16999,80,0,0,0,Snapdragon  680,snapdragon,8,2.4,5000,1,33,8,128,6.59,1080x2412,90,Punch Hole,50MP + 2MP,50,2,16,1,Android v11,3,Lower-MidRange,Very Good
+samsung,Samsung Galaxy S22 Plus 5G ,88999,88,1,1,0,Snapdragon  8 Gen1,snapdragon,8,3,4500,1,45,8,256,6.6,1080x2340,120,Punch Hole,50MP + 12MP + 10MP,50,3,10,1,Android v13,4,Flagship,Very Good
+oneplus,OnePlus Nord CE 2 Lite 5G ,20890,84,1,0,0,Snapdragon 695,snapdragon,8,2.2,5000,1,33,8,128,6.59,1080x2412,120,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v12,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy M53 5G,31990,85,1,0,0,Dimensity  900 5G,dimensity,8,2.4,5000,1,25,6,128,6.7,1080x2400,120,Punch Hole,108MP,108,4,32,1,Android v12,5,Upper-MidRange,Very Good
+poco,POCO M4 Pro 4G,10890,77,0,0,1,Helio G96,helio,8,2.05,5000,1,33,6,64,6.43,1080x2400,90,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Budget,Good
+vivo,Vivo V23 Pro 5G ,39990,87,1,0,0,Dimensity 1200,dimensity,8,3,4300,1,44,12,256,6.56,1080x2376,90,Small Notch,108MP + 8MP + 2MP,108,3,50,2,Android v12,5,Upper-MidRange,Very Good
+infinix,Infinix Note 12 Pro,14849,83,0,0,0,Helio  G99,helio,8,2.2,5000,1,33,8,256,6.7,1080x2400,120,Punch Hole,108MP + 2MP,108,3,16,1,Android v12,4,Budget,Very Good
+vivo,Vivo V23e 5G,22999,84,1,0,0,Dimensity  810 5G,dimensity,8,2.4,4050,1,44,8,128,6.44,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,44,1,Android v12,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy A03,9999,67,0,0,0,Unisoc  T606,unisoc,8,2,5000,1,15,3,32,6.5,720x1560,120,Punch Hole,48MP + 2MP,48,2,5,1,Android v11,3,Budget,Average
+realme,Realme 9i,11870,75,0,0,0,Snapdragon  680,snapdragon,8,2.4,5000,1,33,4,64,6.6,1080x2412,90,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v11,4,Budget,Good
+vivo,Vivo T1 5G,15990,78,1,0,0,Snapdragon  695,snapdragon,8,2.2,5000,1,18,4,128,6.58,1080x2408,120,Water Drop Notch,50MP + 2MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Good
+apple,Apple iPhone 13 Pro ,169900,84,1,1,0,Bionic A15,bionic,6,3.22,3095,1,39,6,1,6.1,1170x2532,120,Large Notch,12MP + 12MP + 12MP,12,3,12,1,iOS v15.0,4,Flagship,Very Good
+realme,Realme 8i ,14354,77,0,0,0,Helio G96,helio,8,2.05,5000,1,18,6,128,6.6,1080x2412,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v11,4,Budget,Good
+realme,Realme 8s 5G ,18490,82,1,0,0,Dimensity  810 5G,dimensity,8,2.4,5000,1,33,8,128,6.5,1080x2400,90,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+realme,Realme Narzo 50A,8999,71,0,0,0,Helio  G85,helio,8,2,6000,1,18,4,64,6.5,720x1600,120,Punch Hole,50MP + 2MP + 2MP,50,3,8,1,Android v11,4,Budget,Good
+realme,Realme C11 2021 ,7690,61,0,0,0,SC9863A,sc9863a,8,1.6,5000,0,39,4,64,6.52,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v11,4,Budget,Average
+xiaomi,Xiaomi Redmi 10 Prime,11490,74,0,0,1,Helio G88,helio,8,2,6000,1,18,4,64,6.5,1080x2400,90,Punch Hole,50MP,50,4,8,1,Android v11,5,Budget,Good
+asus,Asus ROG Phone 5s Pro 5G,79999,89,1,1,0,Snapdragon  888+,snapdragon,8,2.9,6000,1,65,18,512,6.78,1080x2448,144,Punch Hole,64MP + 13MP + 5MP,64,3,24,1,Android v13,4,Sub-Flagship,Very Good
+samsung,Samsung Galaxy M32 5G,16499,78,1,0,0,Dimensity 720,dimensity,8,2,5000,1,15,6,128,6.5,720x1600,120,Punch Hole,48MP,48,4,13,1,Android v11,5,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi Note 10T 5G,13650,75,1,0,1,Dimensity 700,dimensity,8,2.2,5000,1,18,4,64,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,8,1,Android v11,4,Budget,Good
+xiaomi,Xiaomi Redmi 10,9440,71,0,0,0,Snapdragon 680,snapdragon,8,2.4,6000,1,18,4,64,6.7,720x1600,120,Punch Hole,50MP + 2MP,50,2,5,1,Android v11,3,Budget,Good
+vivo,Vivo Y73 2021,16990,80,0,0,0,Helio G95,helio,8,2.05,4000,1,33,8,128,6.44,1080x2400,120,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+oppo,OPPO A16,12250,69,0,0,0,Helio G35,helio,8,2.3,5000,0,39,4,64,6.52,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,8,1,Android v11,4,Budget,Average
+vivo,Vivo X70 Pro Plus 5G,53990,91,1,1,0,Snapdragon  888+,snapdragon,8,2.9,4500,1,55,12,256,6.78,1440x3200,120,Punch Hole,50MP,50,4,32,1,Android v13,5,Premium,Excellent
+oneplus,OnePlus 9 ,32990,87,1,1,0,Snapdragon 888,snapdragon,8,2.84,4500,1,39,12,256,6.55,1080x2400,120,Punch Hole,50MP + 48MP + 2MP,50,3,16,1,Android v11,4,Upper-MidRange,Very Good
+realme,Realme 8 ,16978,83,0,0,0,Helio G95,helio,8,2,5000,1,30,8,128,6.4,1080x2400,120,Punch Hole,64MP,64,4,16,1,Android v11,5,Lower-MidRange,Very Good
+realme,Realme Narzo 30 5G,18590,79,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,6,128,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Good
+samsung,Samsung Galaxy A72 ,37999,88,0,0,0,Snapdragon  720G,snapdragon,8,2.3,5000,1,25,8,256,6.7,1080x2400,90,Punch Hole,64MP,64,4,32,1,Android v11,5,Upper-MidRange,Very Good
+xiaomi,Xiaomi Mi 11X Pro,27499,85,1,0,1,Snapdragon 888,snapdragon,8,2.84,4520,1,33,8,128,6.67,1080x2400,120,Punch Hole,108MP + 8MP + 5MP,108,3,20,1,Android v13,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi 9 Power ,11999,77,0,0,1,Snapdragon  662,snapdragon,8,2,6000,1,18,6,128,6.53,1080x2340,120,Punch Hole,48MP,48,4,8,1,Android v10,5,Budget,Good
+samsung,Samsung Galaxy S21 5G ,73999,88,1,1,0,Exynos  2100,exynos,8,2.9,4000,1,25,8,256,6.2,1080x2400,120,Punch Hole,64MP + 12MP + 12MP,64,3,10,1,Android v13,4,Sub-Flagship,Very Good
+samsung,Samsung Galaxy S21 Plus 5G ,85999,89,1,1,0,Exynos 2100,exynos,8,2.9,4800,1,25,8,256,6.7,1080x2400,120,Punch Hole,64MP + 12MP + 12MP,64,3,10,1,Android v13,4,Flagship,Very Good
+xiaomi,Xiaomi Mi 11 Lite,13825,79,0,0,1,Snapdragon 732G,snapdragon,8,2.3,4250,1,33,6,128,6.55,1080x2400,90,Punch Hole,64MP + 8MP + 5MP,64,3,16,1,Android v11,4,Budget,Good
+xiaomi,Xiaomi Mi 10i ,23999,86,1,0,1,Snapdragon  750G,snapdragon,8,2.2,4820,1,33,8,128,6.67,1080x2400,120,Punch Hole,108MP,108,4,16,1,Android v10,5,Lower-MidRange,Very Good
+realme,Realme 8 Pro,17190,82,0,0,0,Snapdragon 720G,snapdragon,8,2.3,4500,1,50,6,128,6.4,1080x2400,120,Punch Hole,108MP,108,4,16,1,Android v11,5,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi 9 Power,11990,74,0,0,1,Snapdragon  662,snapdragon,8,2,6000,1,18,4,64,6.53,1080x2340,120,Punch Hole,48MP,48,4,8,1,Android v10,5,Budget,Good
+oppo,Oppo Reno 5 Pro 5G,31900,84,1,0,0,Dimensity 1000+,dimensity,8,2.6,4350,1,65,8,128,6.53,1080x2400,90,Punch Hole,64MP,64,4,32,1,Android v13,5,Upper-MidRange,Very Good
+poco,Poco M3,8790,75,0,0,1,Snapdragon 662,snapdragon,8,2,6000,1,18,6,64,6.53,1080x2340,120,Punch Hole,48MP + 2MP + 2MP,48,3,8,1,Android v10,4,Budget,Good
+apple,Apple iPhone 12 Pro ,119900,80,1,1,0,Bionic A14,bionic,6,3.1,4845.19,1,39,6,256,6.1,1170x2532,120,Punch Hole,12MP + 12MP,12,2,12,1,Android v13,3,Flagship,Very Good
+poco,Poco X3,14490,80,0,0,1,Snapdragon  732G,snapdragon,8,2.3,6000,1,33,6,64,6.67,1080x2400,120,Punch Hole,64MP,64,4,20,1,Android v10,5,Budget,Very Good
+vivo,Vivo V20 Pro,27000,84,1,0,0,Snapdragon 765G,snapdragon,8,2.4,4000,1,33,8,128,6.44,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,44,2,Android v13,5,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 9 Pro ,15999,77,0,0,1,Snapdragon 720G,snapdragon,8,2.3,5020,1,18,4,128,6.67,1080x2400,120,Punch Hole,48MP,48,4,16,1,Android v10.0,5,Lower-MidRange,Good
+realme,Realme 7,13999,78,0,0,0,Helio  G95,helio,8,2.05,5000,1,30,6,64,6.5,1080x2400,90,Punch Hole,64MP,64,4,16,1,Android v10,5,Budget,Good
+oppo,OPPO F17 Pro,19990,83,0,0,0,Helio P95,helio,8,2.2,4015,1,30,8,128,6.43,1080x2400,120,Punch Hole,48MP,48,4,16,2,Android v10,6,Lower-MidRange,Very Good
+realme,Realme X7 Pro,29999,84,1,1,0,Dimensity 1000+,dimensity,8,2.6,4500,1,65,8,128,6.55,1080x2400,120,Punch Hole,64MP,64,4,32,1,Android v13,5,Upper-MidRange,Very Good
+motorola,Motorola Moto G 5G,20999,82,1,1,0,Snapdragon  750G,snapdragon,8,2.2,5000,1,20,6,128,6.67,1080x2400,120,Punch Hole,48MP + 8MP + 2MP,48,3,16,1,Android v10,4,Lower-MidRange,Very Good
+poco,POCO M2 Pro ,10898,78,0,0,1,Snapdragon 720G,snapdragon,8,2.3,5000,1,33,6,64,6.67,1080x2400,120,Punch Hole,48MP,48,4,16,1,Android v10.0,5,Budget,Good
+samsung,Samsung Galaxy Note 20,86000,86,0,1,0,Exynos  990,exynos,8,2.73,4300,1,25,8,256,6.7,1080x2400,120,Punch Hole,64MP + 12MP + 12MP,64,3,10,1,Android v13,4,Flagship,Very Good
+samsung,Samsung Galaxy A12,11990,71,0,0,0,Helio P35,helio,8,2.3,5000,1,15,4,64,6.5,720x1560,120,Punch Hole,48MP,48,4,8,1,Android v10,5,Budget,Good
+motorola,Motorola One Macro,9999,68,0,0,0,Helio P70,helio,8,2,4000,1,10,4,64,6.2,720x1520,120,Punch Hole,13MP + 2MP + 2MP,13,3,8,1,Android v9.0 (Pie),4,Budget,Average
+oppo,Oppo Reno 2Z,28999,80,0,0,0,Helio P90,helio,8,2.2,4000,1,39,8,256,6.53,1080x2340,120,Punch Hole,48MP,48,4,16,1,Android v9.0 (Pie),5,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 8 Pro,16999,78,0,0,1,Helio  G90T,helio,8,2.05,4500,1,18,6,64,6.53,1080x2340,120,Punch Hole,64MP,64,4,20,1,Android v9.0 (Pie),5,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi Note 7 Pro,10499,70,0,0,1,Snapdragon 675,snapdragon,8,2,4000,1,39,4,64,6.3,1080x2340,120,Punch Hole,48MP + 5MP,48,2,13,1,Android v9.0 (Pie),3,Budget,Good
+vivo,Vivo Y95,11799,65,0,0,0,Snapdragon 439,snapdragon,8,1.95,4030,0,39,4,64,6.22,1520x720,120,Punch Hole,13MP + 2MP,13,2,20,1,Android v8.1 (Oreo),3,Budget,Average
+xiaomi,Xiaomi Mi A2,10999,67,0,0,1,Snapdragon 660,snapdragon,8,2.2,3010,1,39,4,64,5.99,1080x2160,120,Punch Hole,20MP + 12MP,20,2,20,1,Android v8.1 (Oreo),3,Budget,Average
+apple,Apple iPhone 8 Plus ,84900,69,0,1,0,Apple A11,apple,6,2.39,2691,1,39,3,256,5.5,1080x1920,120,Punch Hole,12MP + 12MP,12,2,7,1,iOS v11,3,Flagship,Average
+blackberry,Blackberry KEYone,22300,66,0,1,0,Snapdragon 625,snapdragon,8,2,3505,0,39,4,64,4.5,1080x1620,120,Punch Hole,50MP + 2MP,50,3,8,1,Android v7.1 (Nougat),4,Lower-MidRange,Average
+apple,Apple iPhone 6 Plus ,48999,51,0,1,0,Apple,apple,2,1.4,2915,0,39,1,64,5.5,1080x1920,120,Punch Hole,50MP + 2MP,50,3,2,1,iOS v8,4,Premium,Poor
+ikall,iKall S3,9999,68,0,0,0,Unisoc T606,unisoc,4,1.6,6000,0,39,6,128,6.8,720x1600,120,Punch Hole,21MP + 5MP + 2MP,21,3,8,1,Android v13,4,Budget,Average
+lava,Lava Yuva 3 Pro,8999,75,0,0,0,Tiger T616,tiger,8,2,5000,1,18,8,128,6.5,1600x720,90,Punch Hole,50MP,50,2,8,1,Android v13,3,Budget,Good
+xiaomi,Xiaomi Redmi A2 Plus ,7898,62,0,0,0,Helio G36,helio,8,2.2,5000,1,10,2,32,6.52,720x1600,120,Punch Hole,8MP + 0.08MP,8,2,5,1,Android v13,3,Budget,Average
+lava,Lava O1,6999,63,0,0,0,Unisoc T606,unisoc,8,2,5000,1,18,4,64,6.56,1600x720,90,Water Drop Notch,13MP + 0.08MP,13,2,5,1,Android v13,3,Budget,Average
+samsung,Samsung Galaxy Z Fold 5 ,164999,93,1,1,0,Snapdragon 8 Gen 2,snapdragon,8,3.36,4400,1,25,12,512,7.6,1812x2176,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Flagship,Excellent
+samsung,Samsung Galaxy Z Flip 5 ,109999,88,1,1,0,Snapdragon 8 Gen 2,snapdragon,8,3.2,3700,1,25,8,512,6.7,1080x2640,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Flagship,Very Good
+tecno,Tecno Phantom V Flip,53999,88,1,1,0,Dimensity 8050,dimensity,8,3,4000,1,45,8,256,6.9,1080x2640,144,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Premium,Very Good
+samsung,Samsung Galaxy A14 4G ,12999,75,0,0,0,Exynos  850,exynos,8,2,5000,1,15,4,128,6.6,1080x2408,120,Punch Hole,50MP + 5MP + 2MP,50,3,13,1,Android v13,4,Budget,Good
+oneplus,OnePlus 11 5G Marble Odyssey,61990,90,1,1,0,Snapdragon 8 Gen2,snapdragon,8,3.2,5000,1,100,16,256,6.7,1440x3216,120,Punch Hole,50MP + 48MP + 32MP,50,3,16,1,Android v13,4,Sub-Flagship,Excellent
+infinix,Infinix Smart 7 HD,6199,61,0,0,0,Spreadtrum SC9863A1,spreadtrum,8,1.6,5000,1,10,2,64,6.6,720x1612,120,Punch Hole,8MP + 0.08MP,8,2,5,1,Android v12,3,Budget,Average
+tecno,Tecno Spark Go 2023 ,6149,64,0,0,0,Helio A22,helio,4,2,5000,1,10,3,64,6.56,720x1600,120,Punch Hole,13MP,13,2,5,1,Android v12,3,Budget,Average
+infinix,Infinix Hot 30i ,8399,71,0,0,0,Helio G37,helio,8,2.3,5000,1,10,4,64,6.6,720x1612,90,Water Drop Notch,50MP,50,2,8,1,Android v12,3,Budget,Good
+itel,Itel P40,6499,61,0,0,0,Spreadtrum  SC9863A,spreadtrum,8,1.6,6000,1,18,4,64,6.6,720x1612,120,Punch Hole,13MP,13,2,5,1,Android v12,3,Budget,Average
+itel,itel A60,5299,49,0,0,0,Unisoc  SC9832E,unisoc,4,2.3,5000,0,39,2,32,6.6,720x1612,120,Punch Hole,8MP,8,2,5,1,Android v12,3,Budget,Very Poor
+tecno,Tecno Spark 10 5G,10999,73,1,0,0,Dimensity 6020,dimensity,8,2.2,5000,1,18,4,64,6.56,720x1612,90,Water Drop Notch,50MP,50,2,8,1,Android v13,3,Budget,Good
+nokia,Nokia C22,6499,61,0,0,0,Unisoc SC9863A,unisoc,8,1.6,5000,0,39,2,64,6.52,720x1600,120,Punch Hole,13MP + 2MP,13,2,8,1,Android v13,3,Budget,Average
+benco,Benco V90,7199,64,0,0,0,Unisoc  SC9863,unisoc,8,1.6,5000,0,39,4,64,6.82,720x1640,120,Punch Hole,16MP + Ultra Wide + Macro,16,3,8,1,Android v12,4,Budget,Average
+tecno,Tecno Pop 7 Pro,6399,61,0,0,0,Helio A22,helio,4,2,5000,1,10,2,64,6.56,720x1612,120,Punch Hole,12MP,12,2,5,1,Android v12,3,Budget,Average
+vivo,Vivo Y02 ,8498,53,0,0,0,Helio,helio,8,2.3,5000,1,10,2,32,6.51,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v12,4,Budget,Poor
+tecno,Tecno Spark Go 2023,5338,62,0,0,0,Helio A22,helio,4,2,5000,1,10,3,32,6.56,720x1600,120,Punch Hole,13MP,13,2,5,1,Android v12,3,Budget,Average
+samsung,Samsung Galaxy A04s ,11999,72,0,0,0,Exynos 850,exynos,8,2,5000,1,15,4,128,6.5,720x1600,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,5,1,Android v12,4,Budget,Good
+xiaomi,Xiaomi Redmi Note 12 Pro ,23000,82,1,0,1,Dimensity 1080,dimensity,8,2.6,5000,1,67,8,128,6.67,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Lower-MidRange,Very Good
+samsung,Samsung Galaxy A04e ,10499,69,0,0,0,Helio P35,helio,8,2.3,5000,0,39,4,128,6.5,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v12,3,Budget,Average
+lava,Lava Blaze NXT,6690,66,0,0,0,Helio G37,helio,8,2.3,5000,0,39,4,64,6.5,720x1600,120,Punch Hole,13MP + 2MP,13,3,8,1,Android v12,4,Budget,Average
+vivo,Vivo Y16 ,9945,66,0,0,0,Helio P35,helio,8,2.3,5000,1,10,3,64,6.51,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v12,3,Budget,Average
+xiaomi,Xiaomi Redmi 10A ,8890,70,0,0,0,Helio  G25,helio,8,2,5000,0,39,6,128,6.53,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v11,4,Budget,Good
+tecno,Tecno Pova 4,9299,73,0,0,0,Helio G99,helio,8,2.2,6000,1,18,8,128,6.82,720x1600,90,Water Drop Notch,50MP,50,2,8,1,Android v12,3,Budget,Good
+realme,Realme C30s ,7941,62,0,0,0,Unisoc SC9863A,unisoc,8,1.6,5000,1,10,4,64,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v12,4,Budget,Average
+xiaomi,Xiaomi Redmi 11 Prime 5G ,13899,77,1,0,1,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,6,128,6.58,1080x2408,90,Water Drop Notch,50MP + 2MP,50,2,5,1,Android v12,3,Budget,Good
+poco,Poco C50,5915,59,0,0,0,Helio A22,helio,4,2,5000,1,10,2,32,6.52,720x1600,120,Punch Hole,8MP,8,2,5,1,Android v12,3,Budget,Poor
+oppo,OPPO A77 ,13400,71,0,0,0,Helio G35,helio,8,2.3,5000,1,33,4,128,6.56,720x1600,120,Punch Hole,50MP,50,2,8,1,Android v12,3,Budget,Good
+oppo,OPPO A77s,22999,76,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,33,8,128,6.56,720x1600,90,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v12,3,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi Note 11SE,12499,80,0,0,1,Helio G95,helio,8,2.05,5000,1,33,6,64,6.43,1080x2400,120,Punch Hole,64MP,64,4,13,1,Android v11,5,Budget,Very Good
+xiaomi,Xiaomi Redmi A1,6499,59,0,0,0,Helio A22,helio,4,2,5000,1,10,2,32,6.52,720x1600,120,Punch Hole,8MP,8,2,5,1,Android v12,3,Budget,Poor
+samsung,Samsung Galaxy Z Flip 4 ,64999,88,1,1,0,Snapdragon  8+ Gen1,snapdragon,8,3.2,3700,1,25,8,256,6.7,1080x2640,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Sub-Flagship,Very Good
+samsung,Samsung Galaxy Z Fold 4 ,109998,92,1,1,0,Snapdragon  8+ Gen1,snapdragon,8,3.2,4400,1,25,12,512,7.6,1812x2176,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v12,4,Flagship,Excellent
+oneplus,OnePlus 10T ,42636,87,1,1,0,Snapdragon 8+ Gen1,snapdragon,8,3.2,4800,1,150,12,256,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Premium,Very Good
+oneplus,OnePlus 10T ,47899,87,1,1,0,Snapdragon 8+ Gen1,snapdragon,8,3.2,4800,1,150,16,256,6.7,1080x2412,120,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v13,4,Premium,Very Good
+vivo,Vivo T1x ,11848,77,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,18,6,128,6.58,1080x2408,90,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+infinix,Infinix Note 12 5G,15999,78,1,0,0,Dimensity 810 5G,dimensity,8,2.4,5000,1,33,6,64,6.7,1080x2400,120,Punch Hole,50MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Good
+poco,Poco F4 5G ,28490,85,1,1,0,Snapdragon  870,snapdragon,8,3.2,4500,1,67,8,128,6.67,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,20,1,Android v13,4,Upper-MidRange,Very Good
+tecno,Tecno Camon 19 Neo,7999,77,0,1,0,Helio  G85,helio,8,2,5000,1,18,6,128,6.8,1080x2400,90,Punch Hole,48MP + 2MP,48,3,32,1,Android v13,4,Budget,Good
+realme,Realme Narzo 50i Prime,6499,61,0,0,0,Tiger T612,tiger,8,1.82,5000,1,10,3,32,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v11,4,Budget,Average
+samsung,Samsung Galaxy M13,11999,75,0,0,0,Exynos  850,exynos,8,2,6000,1,15,6,128,6.6,1080x2400,120,Punch Hole,50MP + 5MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+realme,Realme C30,6700,58,0,0,0,Tiger T612,tiger,8,1.82,5000,0,39,2,32,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v11,4,Budget,Poor
+realme,Realme Narzo 50 5G ,16999,76,1,0,0,Dimensity 810 5G,dimensity,8,2.4,5000,1,33,4,128,6.6,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Good
+infinix,Infinix Hot 12 Play,7990,66,0,0,0,Tiger T610,tiger,8,1.82,6000,1,18,4,64,6.82,1640x720,90,Punch Hole,13MP,13,2,8,1,Android v11,3,Budget,Average
+vivo,Vivo T1 44W ,16999,82,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,44,8,128,6.44,1080x2408,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Very Good
+vivo,Vivo T1x 4G,11999,74,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,18,4,64,6.58,1080x2408,90,Water Drop Notch,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+nokia,Nokia G21 ,10499,75,0,0,0,Unisoc  T606,unisoc,8,2,5050,1,18,6,128,6.5,720x1600,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v11,4,Budget,Good
+samsung,Samsung Galaxy M53 5G ,33990,87,1,0,0,Dimensity  900 5G,dimensity,8,2.4,5000,1,25,8,128,6.7,1080x2400,120,Punch Hole,108MP,108,4,32,1,Android v12,5,Upper-MidRange,Very Good
+samsung,Samsung Galaxy M13 5G,15500,75,1,0,0,Dimensity 700,dimensity,8,2.2,5000,1,15,6,128,6.5,720x1600,90,Water Drop Notch,50MP + 2MP,50,2,5,1,Android v12,3,Lower-MidRange,Good
+samsung,Samsung Galaxy M33 5G ,17700,84,1,1,0,Exynos  1280,exynos,8,2.4,6000,1,25,8,128,6.6,1080x2400,120,Water Drop Notch,50MP,50,4,8,1,Android v12,5,Lower-MidRange,Very Good
+samsung,Samsung Galaxy A23 ,18399,82,0,0,0,Snapdragon  680,snapdragon,8,2.4,5000,1,25,8,128,6.6,1080x2408,120,Punch Hole,50MP,50,4,8,1,Android v12,5,Lower-MidRange,Very Good
+motorola,Motorola Moto E32,7499,71,0,0,0,Helio G37,helio,8,2.3,5000,1,10,4,64,6.5,720x1600,90,Punch Hole,50MP + 2MP,50,2,8,1,Android v12,3,Budget,Good
+realme,Realme 9 5G SE ,21990,82,1,0,0,Snapdragon  778G,snapdragon,8,2.4,5000,1,30,8,128,6.6,1080x2412,144,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Very Good
+realme,Realme 9 5G ,16999,79,1,0,0,Dimensity  810 5G,dimensity,8,2.4,5000,1,18,6,128,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Good
+samsung,Samsung Galaxy A13 ,15999,78,0,0,0,,snapdragon,8,2,5000,1,25,6,128,6.6,1080x2408,120,Punch Hole,50MP,50,4,8,1,Android v12,5,Lower-MidRange,Good
+realme,Realme C35 ,10999,72,0,0,0,Tiger  T616,tiger,8,2,5000,1,18,4,128,6.6,1080x2408,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v11,4,Budget,Good
+realme,Realme 9i ,10999,75,0,0,0,Snapdragon  680,snapdragon,8,2.4,5000,1,33,4,128,6.6,1080x2412,90,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v11,4,Budget,Good
+poco,POCO M4 Pro 4G ,12290,79,0,0,1,Helio G96,helio,8,2.05,5000,1,33,6,128,6.43,1080x2400,90,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Budget,Good
+iqoo,iQOO 9 5G ,46990,85,1,0,0,Snapdragon  888+,snapdragon,8,2.9,4350,1,120,12,256,6.56,1080x2376,120,Punch Hole,48MP + 13MP + 13MP,48,3,16,1,Android v13,4,Premium,Very Good
+vivo,Vivo T1 Pro,23999,81,1,0,0,Snapdragon 778G,snapdragon,8,2.4,4700,1,66,6,128,6.44,1080x2404,90,Water Drop Notch,64MP + 8MP + 2MP,64,3,16,1,Android v12,4,Lower-MidRange,Very Good
+poco,Poco M4 Pro 5G ,17999,82,1,0,1,Dimensity  810 5G,dimensity,8,2.4,5000,1,33,8,128,6.6,1080x2400,90,Punch Hole,50MP + 8MP,50,2,16,1,Android v11,3,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 11 ,12998,79,0,0,1,Snapdragon  680,snapdragon,8,2.4,5000,1,33,6,64,6.43,1080x2400,90,Punch Hole,50MP,50,4,13,1,Android v11,5,Budget,Good
+xiaomi,Xiaomi Redmi Note 11S ,13397,82,0,0,1,Helio  G96,helio,8,2.05,5000,1,33,6,128,6.43,1080x2400,90,Punch Hole,108MP,108,4,16,1,Android v11,5,Budget,Very Good
+xiaomi,Xiaomi Redmi Note 11 Pro 4G,16888,81,0,0,1,Helio  G96,helio,8,2.05,5000,1,67,6,128,6.67,1080x2400,120,Punch Hole,108MP,108,4,16,1,Android v11,5,Lower-MidRange,Very Good
+oppo,OPPO A76,13940,73,0,0,0,Snapdragon  680,snapdragon,8,2.4,5000,1,33,6,128,6.56,720x1612,90,Punch Hole,13MP + 2MP,13,2,8,1,Android v11,3,Budget,Good
+xiaomi,Xiaomi 11T Pro 5G ,49990,88,1,1,1,Snapdragon  888,snapdragon,8,2.84,5000,1,120,12,256,6.67,1080x2400,120,Punch Hole,108MP + 8MP + 5MP,108,3,16,1,Android v13,4,Premium,Very Good
+tecno,Tecno Spark 9,8866,69,0,0,0,Helio G37,helio,8,2.3,5000,0,39,6,128,6.6,720x1600,90,Water Drop Notch,13MP,13,2,8,1,Android v12,3,Budget,Average
+xiaomi,Xiaomi 11T Pro 5G ,41999,87,1,1,1,Snapdragon  888,snapdragon,8,2.84,5000,1,120,8,256,6.67,1080x2400,120,Punch Hole,108MP + 8MP + 5MP,108,3,16,1,Android v13,4,Premium,Very Good
+realme,Realme 9 Pro Plus 5G ,24290,82,1,0,0,Dimensity  920 5G,dimensity,8,2.5,4500,1,60,8,256,6.4,1080x2400,90,Punch Hole,50MP + 8MP + 2MP,50,3,16,1,Android v12,4,Lower-MidRange,Very Good
+motorola,Motorola Moto G22,8499,75,0,0,0,Helio  G37,helio,8,2.3,5000,1,20,4,64,6.53,720x1600,90,Punch Hole,50MP,50,4,16,1,Android v12,5,Budget,Good
+xiaomi,Xiaomi 11i HyperCharge 5G ,26900,86,1,0,1,Dimensity  920 5G,dimensity,8,2.5,4500,1,120,8,128,6.67,2400x1080,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v11,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 11S,12700,80,0,0,1,Helio  G96,helio,8,2.05,5000,1,33,6,64,6.43,1080x2400,90,Punch Hole,108MP,108,4,16,1,Android v11,5,Budget,Very Good
+infinix,Infinix Note 12,11490,74,0,0,0,Helio G88,helio,8,2,5000,1,33,4,64,6.7,2400x1080,120,Punch Hole,50MP + 2MP,50,3,16,1,Android v11,4,Budget,Good
+xiaomi,Xiaomi Redmi Note 11T 5G ,17489,81,1,0,1,Dimensity  810 5G,dimensity,8,2.4,5000,1,33,6,128,6.6,1080x2400,90,Punch Hole,50MP + 8MP,50,2,16,1,Android v11,3,Lower-MidRange,Very Good
+infinix,Infinix Zero 5G,19999,82,1,0,0,Dimensity 900,dimensity,8,2,4500,1,33,8,128,6.78,1080x2400,120,Punch Hole,48MP + 13MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Very Good
+motorola,Motorola Moto G31 ,12999,78,0,0,0,Helio  G85,helio,8,2,5000,1,20,6,128,6.47,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,13,1,Android v11,4,Budget,Good
+samsung,Samsung Galaxy A03 Core,6739,54,0,0,0,Unisoc  SC9836A,unisoc,4,1.6,5000,0,39,2,32,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v10,4,Budget,Poor
+vivo,Vivo Y15s,9699,66,0,0,0,Helio P35,helio,8,2.3,5000,0,39,3,32,6.51,720x1600,120,Punch Hole,13MP + 2MP,13,2,8,1,Android v11,3,Budget,Average
+xiaomi,Xiaomi 11i HyperCharge 5G,22890,83,1,0,1,Dimensity  920 5G,dimensity,8,2.5,4500,1,120,6,128,6.67,2400x1080,120,Punch Hole,108MP + 8MP + 2MP,108,3,16,1,Android v11,4,Lower-MidRange,Very Good
+poco,Poco M4 Pro 5G ,15490,81,1,0,1,Dimensity  810 5G,dimensity,8,2.4,5000,1,33,6,128,6.6,1080x2400,90,Punch Hole,50MP + 8MP,50,2,16,1,Android v11,3,Lower-MidRange,Very Good
+vivo,Vivo Y21T,13490,74,0,0,0,Snapdragon 680,snapdragon,8,2.4,5000,1,18,4,128,6.51,1600x720,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v11,4,Budget,Good
+xiaomi,Xiaomi Mi 11 Lite NE 5G ,28999,86,1,1,1,Snapdragon  778G,snapdragon,8,2.4,4250,1,33,8,128,6.55,1080x2400,90,Punch Hole,64MP + 8MP + 5MP,64,3,20,1,Android v11,4,Upper-MidRange,Very Good
+poco,POCO C31 ,8410,68,0,0,0,Helio G35,helio,8,2.3,5000,0,39,4,64,6.53,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,5,1,Android v10,4,Budget,Average
+samsung,Samsung Galaxy F42 5G ,17750,82,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,1,15,8,128,6.6,1080x2408,90,Water Drop Notch,64MP + 5MP + 2MP,64,3,8,1,Android v11,4,Lower-MidRange,Very Good
+motorola,Motorola Moto G31,11999,75,0,0,0,Helio  G85,helio,8,2,5000,1,20,4,64,6.47,1080x2400,120,Punch Hole,50MP + 8MP + 2MP,50,3,13,1,Android v11,4,Budget,Good
+xiaomi,Xiaomi Redmi 10 Prime ,14999,77,0,0,1,Helio G88,helio,8,2,6000,1,18,6,128,6.5,1080x2400,90,Punch Hole,50MP,50,4,8,1,Android v11,5,Budget,Good
+oppo,OPPO A55 4G,12995,73,0,0,0,Helio G35,helio,8,2.3,5000,1,18,4,64,6.51,720x1600,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v11,4,Budget,Good
+infinix,Infinix Hot 11S,9990,71,0,0,0,Helio G88,helio,8,2,5000,0,39,4,64,6.78,1080x2480,90,Punch Hole,50MP + 2MP,50,3,8,1,Android v11,4,Budget,Good
+realme,Realme GT Master Edition 5G ,25999,85,1,1,0,Snapdragon  778G,snapdragon,8,2.4,4300,1,65,8,256,6.43,1080x2400,120,Punch Hole,64MP + 8MP + 2MP,64,3,32,1,Android v13,4,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi 10 ,10490,75,0,0,0,Snapdragon 680,snapdragon,8,2.4,6000,1,18,6,128,6.7,720x1600,120,Punch Hole,50MP + 2MP,50,2,5,1,Android v11,3,Budget,Good
+vivo,Vivo Y33s,13840,80,0,0,0,Helio G80,helio,8,2,5000,1,18,8,128,6.58,1080x2408,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v11,4,Budget,Very Good
+samsung,Samsung Galaxy A03s ,8999,69,0,0,0,Helio P35,helio,8,2.3,5000,1,15,4,64,6.5,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,5,1,Android v11,4,Budget,Average
+realme,Realme 8s 5G,18290,80,1,0,0,Dimensity  810 5G,dimensity,8,2.4,5000,1,33,6,128,6.5,1080x2400,90,Punch Hole,64MP + 2MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+poco,POCO M3 ,8834,74,0,0,1,Snapdragon 662,snapdragon,8,2,6000,1,18,4,64,6.53,1080x2340,120,Punch Hole,48MP + 2MP + 2MP,48,3,8,1,Android v10,4,Budget,Good
+realme,Realme Narzo 30 ,12999,78,0,1,0,Helio G95,helio,8,2.05,5000,1,30,6,128,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Budget,Good
+samsung,Samsung Galaxy M32 ,16990,80,0,0,0,Helio G80,helio,8,2,6000,1,15,6,128,6.4,1080x2400,90,Water Drop Notch,64MP,64,4,20,1,Android v11,5,Lower-MidRange,Very Good
+xiaomi,Xiaomi Mi 11 Lite ,19980,82,0,0,1,Snapdragon 732G,snapdragon,8,2.3,4250,1,33,8,128,6.55,1080x2400,90,Punch Hole,64MP + 8MP + 5MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+vivo,Vivo V21e 5G,23490,83,1,0,0,Dimensity 700 5G,dimensity,8,2.2,4000,1,44,8,128,6.44,1080x2400,120,Punch Hole,64MP + 8MP,64,2,32,1,Android v11,3,Lower-MidRange,Very Good
+realme,Realme C21Y,6590,62,0,0,0,Unisoc T610,unisoc,8,1.8,5000,0,39,3,32,6.5,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,5,1,Android v11,4,Budget,Average
+xiaomi,Xiaomi Redmi 10A,7380,64,0,0,0,Helio  G25,helio,8,2,5000,0,39,3,32,6.53,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v11,4,Budget,Average
+samsung,Samsung Galaxy A03s,7699,67,0,0,0,Helio P35,helio,8,2.3,5000,1,15,3,32,6.5,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,5,1,Android v11,4,Budget,Average
+poco,POCO M3 Pro 5G,12190,75,1,0,1,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,4,64,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,8,1,Android v11,4,Budget,Good
+xiaomi,Xiaomi Redmi Note 10S ,15990,79,0,0,1,Helio G95,helio,8,2.05,5000,1,33,6,128,6.43,1080x2400,120,Punch Hole,64MP,64,4,13,1,Android v11,5,Lower-MidRange,Good
+vivo,Vivo V21 5G ,26490,86,1,0,0,Dimensity 800U,dimensity,8,2.4,4000,1,33,8,256,6.44,1080x2400,90,Water Drop Notch,64MP + 8MP + 2MP,64,3,44,1,Android v11,4,Upper-MidRange,Very Good
+tecno,Tecno Spark 7 Pro,8490,69,0,0,0,Helio G80,helio,8,2,5000,0,39,4,64,6.6,720x1600,90,Punch Hole,48MP,48,3,8,1,Android v11,4,Budget,Average
+motorola,Motorola Moto G40 Fusion ,15800,81,0,0,0,Snapdragon  732G,snapdragon,8,2.3,6000,1,20,6,128,6.78,1080x2460,120,Punch Hole,64MP + 8MP + 2MP,64,3,16,1,Android v11,4,Lower-MidRange,Very Good
+realme,Realme 8i,12100,74,0,0,0,Helio G96,helio,8,2.05,5000,1,18,4,64,6.6,1080x2412,120,Punch Hole,50MP + 2MP + 2MP,50,3,16,1,Android v11,4,Budget,Good
+iqoo,iQOO 7 Legend,39990,84,1,1,0,Snapdragon  888,snapdragon,8,2.84,4000,1,66,8,128,6.62,1080x2400,120,Punch Hole,48MP + 13MP + 13MP,48,3,16,1,Android v13,4,Upper-MidRange,Very Good
+realme,Realme 8 5G,16999,75,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,1,18,4,128,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Good
+realme,Realme 8 Pro ,21999,84,0,0,0,Snapdragon 720G,snapdragon,8,2.3,4500,1,50,8,128,6.4,1080x2400,120,Punch Hole,108MP,108,4,16,1,Android v11,5,Lower-MidRange,Very Good
+vivo,Vivo Y72 5G,21500,78,1,0,0,Snapdragon 480,snapdragon,8,2,5000,1,18,8,128,6.58,1080x2408,120,Punch Hole,48MP + 2MP,48,2,8,1,Android v11,3,Lower-MidRange,Good
+samsung,Samsung Galaxy A52 ,27999,86,0,0,0,Snapdragon  720G,snapdragon,8,2.3,4500,1,25,8,128,6.5,1080x2400,90,Punch Hole,64MP,64,4,32,1,Android v11,5,Upper-MidRange,Very Good
+oppo,OPPO F19 Pro ,19490,81,0,0,0,Helio P95,helio,8,2.2,4310,1,30,8,256,6.43,1080x2400,120,Punch Hole,48MP,48,4,16,1,Android v11,5,Lower-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 10 ,14399,78,0,0,1,Snapdragon 678,snapdragon,8,2.2,5000,1,33,6,128,6.43,1080x2400,120,Punch Hole,48MP,48,4,13,1,Android v11,5,Budget,Good
+motorola,Motorola Moto G10 Power,8999,72,0,0,0,Snapdragon 460,snapdragon,8,1.8,6000,1,20,4,64,6.51,1600x720,120,Punch Hole,48MP,48,4,8,1,Android v11,5,Budget,Good
+vivo,Vivo Y20G ,14990,73,0,0,0,Helio G80,helio,8,2,5000,1,18,6,128,6.51,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,8,1,Android v11,4,Budget,Good
+oppo,OPPO F19 Pro,18999,80,0,0,0,Helio P95,helio,8,2.2,4310,1,30,8,128,6.43,1080x2400,120,Punch Hole,48MP,48,4,16,1,Android v11,5,Lower-MidRange,Very Good
+oppo,OPPO F19,20990,78,0,0,0,Snapdragon 662,snapdragon,8,2,5000,1,33,6,128,6.4,1080x2400,120,Punch Hole,48MP + 8MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Good
+vivo,Vivo Y31 ,16490,78,0,0,0,Snapdragon  662,snapdragon,8,2,5000,1,18,6,128,6.58,1080x2408,120,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi Note 10 Pro ,17299,81,0,0,1,Snapdragon 732G,snapdragon,8,2.3,5020,1,33,6,128,6.67,1080x2400,120,Punch Hole,64MP,64,4,16,1,Android v11,5,Lower-MidRange,Very Good
+samsung,Samsung Galaxy A22 5G,17890,79,1,0,0,Dimensity 700 5G,dimensity,8,2.2,5000,1,15,6,128,6.6,1080x2408,90,Water Drop Notch,48MP + 5MP + 2MP,48,3,8,1,Android v11,4,Lower-MidRange,Good
+realme,Realme 8,13889,78,0,0,0,Helio G95,helio,8,2,5000,1,30,4,128,6.4,1080x2400,120,Punch Hole,64MP,64,4,16,1,Android v11,5,Budget,Good
+realme,Realme Narzo 30 Pro,15990,79,1,0,0,Dimensity 800U,dimensity,8,2.4,5000,1,30,6,64,6.5,1080x2400,120,Punch Hole,48MP + 8MP + 2MP,48,3,16,1,Android v10,4,Lower-MidRange,Good
+realme,Realme Narzo 30,13499,75,0,1,0,Helio G95,helio,8,2.05,5000,1,30,4,64,6.5,1080x2400,90,Punch Hole,48MP + 2MP + 2MP,48,3,16,1,Android v11,4,Budget,Good
+nokia,Nokia 5.4,8290,70,0,0,0,Snapdragon 662,snapdragon,8,2,4000,0,39,4,64,6.39,1560x720,120,Punch Hole,48MP,48,4,16,1,Android v10,5,Budget,Good
+micromax,Micromax IN Note 1 ,7490,75,0,0,0,Helio G85,helio,8,2,5000,1,18,4,128,6.67,1080x2400,120,Punch Hole,48MP,48,4,16,1,Android v10,5,Budget,Good
+samsung,Samsung Galaxy M12,10999,72,0,0,0,Exynos  850,exynos,8,2,6000,1,15,4,64,6.5,720x1600,90,Water Drop Notch,48MP,48,4,8,1,Android v11,5,Budget,Good
+micromax,Micromax IN Note 1,6989,75,0,0,0,Helio G85,helio,8,2,5000,1,18,4,64,6.67,1080x2400,120,Punch Hole,48MP,48,4,16,1,Android v10,5,Budget,Good
+poco,Poco C3 ,6990,69,0,0,0,Helio G35,helio,8,2.3,5000,0,39,4,64,6.53,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,5,1,Android v10,4,Budget,Average
+oppo,OPPO A15,8389,66,0,0,0,Helio P35,helio,8,2.3,4230,0,39,3,32,6.52,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,5,1,Android v10.0,4,Budget,Average
+samsung,Samsung Galaxy F41 ,17999,82,0,0,0,Exynos 9611,exynos,8,2.3,6000,1,15,6,128,6.4,1080x2340,120,Punch Hole,64MP + 8MP + 5MP,64,3,32,1,Android v10.0,4,Lower-MidRange,Very Good
+realme,Realme Narzo 20 Pro ,16499,82,0,0,0,Helio G95,helio,8,2.05,4500,1,65,8,128,6.5,1080x2400,90,Punch Hole,48MP,48,4,16,1,Android v10,5,Lower-MidRange,Very Good
+vivo,Vivo Y20 ,16999,71,0,0,0,Snapdragon 460,snapdragon,8,1.8,5000,1,18,6,64,6.51,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,8,1,Android v10,4,Lower-MidRange,Good
+realme,Realme 7i,10999,73,0,0,0,Snapdragon 662,snapdragon,8,2,5000,1,18,4,64,6.5,720x1600,90,Punch Hole,64MP,64,4,16,1,Android v10,5,Budget,Good
+vivo,Vivo V20 SE,22990,82,0,0,0,Snapdragon  665,snapdragon,8,2,4100,1,33,8,128,6.44,1080x2400,120,Punch Hole,48MP + 8MP + 2MP,48,3,32,1,Android v10.0,4,Lower-MidRange,Very Good
+realme,Realme 7 ,17949,82,0,0,0,Helio  G95,helio,8,2.05,5000,1,30,8,128,6.5,1080x2400,90,Punch Hole,64MP,64,4,16,1,Android v10,5,Lower-MidRange,Very Good
+realme,Realme Narzo 20,10499,72,0,0,0,Helio G85,helio,8,2,6000,1,18,4,64,6.5,720x1600,120,Punch Hole,48MP + 8MP + 2MP,48,3,8,1,Android v10,4,Budget,Good
+xiaomi,Xiaomi Redmi 9i,8299,66,0,0,0,Helio G25,helio,8,2,5000,1,10,4,64,6.53,720x1600,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v10,4,Budget,Average
+realme,Realme C12,7790,65,0,0,0,Helio G35,helio,8,2.3,6000,0,39,3,32,6.52,720x1600,120,Punch Hole,13MP + 2MP + 2MP,13,3,5,1,Android v10,4,Budget,Average
+vivo,Vivo Y1s,8540,61,0,0,0,Helio P35,helio,8,2.3,4030,0,39,2,32,6.22,720x1520,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v10,4,Budget,Average
+samsung,Samsung Galaxy M01 Core ,6490,55,0,0,0,Helio MT6739,helio,4,1.5,3000,0,39,2,32,5.3,720x1480,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v10,4,Budget,Poor
+samsung,Samsung Galaxy A21s ,12489,74,0,0,0,Exynos 850,exynos,8,2,5000,0,39,6,64,6.5,720x1600,120,Punch Hole,48MP,48,4,13,1,Android v10,5,Budget,Good
+realme,Realme X3 SuperZoom Edition ,28000,83,0,0,0,Snapdragon 855+,snapdragon,8,2.96,4200,1,30,12,256,6.57,1080x2400,120,Dual Punch Hole,64MP,64,4,32,2,Android v10,6,Upper-MidRange,Very Good
+xiaomi,Xiaomi Redmi Note 9 ,11745,75,0,0,1,Helio G85,helio,8,2,5020,1,5,4,128,6.53,1080x2340,120,Punch Hole,48MP,48,4,13,1,Android v10.0,5,Budget,Good
+vivo,Vivo X50,24990,80,0,0,0,Snapdragon 730,snapdragon,8,2.2,4200,1,33,8,128,6.56,1080x2376,120,Punch Hole,48MP,48,4,32,1,Android v13,5,Lower-MidRange,Very Good
+samsung,Samsung Galaxy A21s,10999,72,0,0,0,Exynos 850,exynos,8,2,5000,0,39,4,64,6.5,720x1600,120,Punch Hole,48MP,48,4,13,1,Android v10,5,Budget,Good
+oppo,Oppo Reno 3 Pro,25999,86,0,0,0,Helio P95,helio,8,2.2,4025,1,30,8,128,6.4,1080x2400,120,Punch Hole,64MP,64,4,44,2,Android v10.0,6,Upper-MidRange,Very Good
+samsung,Samsung Galaxy Z Flip,40999,81,0,1,0,Snapdragon 855+,snapdragon,8,2.96,3300,1,15,8,256,6.7,1080x2636,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Premium,Very Good
+vivo,Vivo V19,27980,83,0,0,0,Snapdragon  712,snapdragon,8,2.3,4500,1,33,8,128,6.44,1080x2400,120,Punch Hole,48MP,48,4,32,2,Android v10.0,6,Upper-MidRange,Very Good
+realme,Realme C3,7799,62,0,0,0,Helio G70,helio,8,2,5000,0,39,3,32,6.52,720x1600,120,Punch Hole,12MP + 2MP,12,2,5,1,Android v10,3,Budget,Average
+samsung,Samsung Galaxy M11,12900,66,0,0,0,Snapdragon  450,snapdragon,8,1.8,5000,0,39,3,32,6.4,720x1560,120,Punch Hole,13MP + 5MP + 2MP,13,3,8,1,Android v10.0,4,Budget,Average
+oppo,OPPO Find X2,49990,89,1,1,0,Snapdragon  865,snapdragon,8,2.84,4200,1,65,12,256,6.7,1440x3168,120,Punch Hole,48MP + 13MP + 12MP,48,3,32,1,Android v10.0,4,Premium,Very Good
+xiaomi,Xiaomi Redmi 9,9999,68,0,0,0,Helio G35,helio,8,2.3,5000,0,39,4,64,6.53,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v10,3,Budget,Average
+oppo,Oppo A9 2020 ,15990,74,0,0,0,Snapdragon 665,snapdragon,8,2,5000,0,39,4,128,6.5,720x1600,120,Punch Hole,48MP,48,4,16,1,Android v9.0 (Pie),5,Lower-MidRange,Good
+xiaomi,Xiaomi Redmi 8A,7499,60,0,0,0,Snapdragon 439,snapdragon,8,2,5000,1,18,2,32,6.22,720x1520,120,Punch Hole,50MP + 2MP,50,3,8,1,Android v9.0 (Pie),4,Budget,Average
+samsung,Samsung Galaxy M21,12499,76,0,0,0,Exynos 9611,exynos,8,2.3,6000,1,15,4,64,6.4,1080x2340,120,Punch Hole,48MP + 8MP + 5MP,48,3,20,1,Android v10.0,4,Budget,Good
+xiaomi,Xiaomi Redmi 7A ,5849,60,0,0,0,Snapdragon  439,snapdragon,8,2,4000,1,10,2,32,5.45,720x1440,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v9.0 (Pie),4,Budget,Average
+vivo,Vivo Y12 ,11990,68,0,0,0,Helio  P22,helio,8,2,5000,0,39,3,64,6.35,720x1544,120,Punch Hole,13MP + 8MP + 2MP,13,3,8,1,Android v9.0 (Pie),4,Budget,Average
+samsung,Samsung Galaxy M30s,14999,75,0,0,0,Exynos 9611,exynos,8,2.3,6000,1,15,4,64,6.4,1080x2280,120,Punch Hole,48MP + 8MP + 5MP,48,3,16,1,Android v9.0 (Pie),4,Budget,Good
+motorola,Motorola One Action,9999,76,0,1,0,Exynos 9609,exynos,8,2.3,3500,1,10,4,128,6.3,1080x2520,120,Punch Hole,16MP + 12MP + 5MP,16,3,12,1,Android v9.0 (Pie),4,Budget,Good
+samsung,Samsung Galaxy A20s,27353,67,0,0,0,Snapdragon 450,snapdragon,8,1.8,4000,1,15,3,32,6.5,720x1560,120,Punch Hole,13MP + 8MP + 5MP,13,3,8,1,Android v9.0 (Pie),4,Upper-MidRange,Average
+vivo,Vivo Z1 Pro,13690,73,0,0,0,Snapdragon  712,snapdragon,8,2.3,5000,1,18,4,64,6.53,1080x2340,120,Punch Hole,16MP + 8MP + 2MP,16,3,32,1,Android v9.0 (Pie),4,Budget,Good
+vivo,Vivo Y91i ,9990,58,0,0,0,Helio P22,helio,8,2,4030,0,39,2,32,6.22,720x1520,120,Punch Hole,50MP + 2MP,50,3,8,1,Android v8.1 (Oreo),4,Budget,Poor
+motorola,Motorola One,7990,67,0,0,0,Snapdragon  625,snapdragon,8,2,3000,1,15,4,64,5.9,720x1520,120,Punch Hole,13MP + 2MP,13,2,8,1,Android v8.1 (Oreo),3,Budget,Average
+xiaomi,Xiaomi Poco F1,18999,77,0,0,0,Snapdragon 845,snapdragon,8,2.8,4000,1,39,6,64,6.18,1080x2246,120,Punch Hole,12MP + 5MP,12,2,20,1,Android v8.1 (Oreo),3,Lower-MidRange,Good
+nokia,Nokia 6.1 Plus,11490,67,0,0,0,Snapdragon 636,snapdragon,8,1.8,3060,1,39,4,64,5.8,1080x2280,120,Punch Hole,16MP + 5MP,16,2,16,1,Android v8.1 (Oreo),3,Budget,Average
+oppo,Oppo A3s,9990,58,0,0,0,Snapdragon 450,snapdragon,8,1.8,4230,0,39,2,16,6.2,720x1520,120,Punch Hole,13MP + 2MP,13,2,8,1,Android v8.1 (Oreo),3,Budget,Poor
+motorola,Motorola Moto G6 ,9790,67,0,0,0,Snapdragon 450,snapdragon,8,1.8,3000,1,39,4,64,5.7,1080x2160,120,Punch Hole,12MP + 5MP,12,2,16,1,Android v8.0 (Oreo),3,Budget,Average
+xiaomi,Xiaomi Redmi 6A,6499,54,0,0,0,Helio A22,helio,4,2,3000,0,39,2,16,5.45,1440x720,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v8.1 (Oreo),4,Budget,Poor
+vivo,Vivo V9,23990,70,0,0,0,Snapdragon 626,snapdragon,8,2.2,3260,0,39,4,64,6.3,2280x1080,120,Punch Hole,16MP + 5MP,16,2,24,1,Android v8.1 (Oreo),3,Lower-MidRange,Good
+apple,Apple iPhone 8 ,77000,62,0,1,0,Apple A11,apple,6,2.39,1821,1,39,2,256,4.7,750x1334,120,Punch Hole,50MP + 2MP,50,3,7,1,iOS v11,4,Sub-Flagship,Average
+motorola,Motorola Moto G5s Plus,9490,69,0,1,0,Snapdragon 625,snapdragon,8,2,3000,1,39,4,64,5.5,1080x1920,120,Punch Hole,13MP + 13MP,13,2,8,1,Android v7.1 (Nougat),3,Budget,Average
+blackberry,BlackBerry Passport,22300,61,0,0,0,Snapdragon 801,snapdragon,4,2.26,3450,0,39,3,32,4.5,1440x1440,120,Punch Hole,50MP + 2MP,50,3,2,1,Blackberry OS v10.3,4,Lower-MidRange,Average
+lava,Lava Z33,8399,54,0,0,0,Helio,helio,8,2.3,5000,0,39,3,32,6.51,1600x720,120,Punch Hole,8MP,8,2,5,1,Android v12,3,Budget,Poor
+oukitel,Oukitel WP23,18599,68,0,1,0,Helio MT6765,helio,8,2.35,10600,1,18,4,64,6.52,720x1600,120,Punch Hole,13MP + 2MP,13,2,5,1,Android v13,3,Lower-MidRange,Average
+ikall,iKall K575,4899,46,0,0,0,,snapdragon,8,0.2,3000,0,39,2,32,5,480x850,120,Punch Hole,50MP + 2MP,50,3,5,1,Android v13,4,Budget,Very Poor
+oukitel,Oukitel WP21 Ultra,42722,85,0,1,0,Helio G99,helio,8,2.2,9800,1,66,12,256,6.78,1080x2460,120,Punch Hole,64MP + 20MP + 5MP,64,3,20,1,Android v13,4,Premium,Very Good
+wings,Wings W4,6988,65,0,0,0,Helio A25,helio,8,1.8,4000,1,39,4,64,6.5,1600x720,120,Punch Hole,16MP + 8MP + 2MP,16,3,13,1,Android v10,4,Budget,Average
+itel,Itel P40 ,6605,61,0,0,0,Spreadtrum  SC9863A,spreadtrum,8,1.6,6000,1,18,4,128,6.6,720x1612,120,Punch Hole,13MP,13,2,5,1,Android v12,3,Budget,Average
+itel,itel A60s ,6690,56,0,0,0,Unisoc  SC9863A1,unisoc,8,2.3,5000,1,10,4,128,6.6,720x1612,120,Punch Hole,8MP,8,2,5,1,Android v12,3,Budget,Poor
+ikall,iKall S2 Star,9299,67,0,0,0,,snapdragon,4,1.6,6000,0,39,6,128,6.8,720x1600,120,Punch Hole,21MP + 5MP + 2MP,21,3,8,1,Android v13,4,Budget,Average
+ikall,iKall Z14 Pro,7999,63,0,0,0,,snapdragon,4,1.6,5000,0,39,6,128,6.5,720x1600,120,Punch Hole,50MP + 2MP,50,3,8,1,Android v11,4,Budget,Average
+doogee,Doogee Smini,36800,76,0,1,0,Helio  G99,helio,8,2.2,3000,1,18,8,256,4.5,480x1170,120,Punch Hole,50MP + 2MP,50,3,13,1,Android v13,4,Upper-MidRange,Good
+lava,Lava Blaze 2 Pro,8690,75,0,0,0,Tiger   T616,tiger,8,2,5000,1,18,8,128,6.5,1600x720,90,Water Drop Notch,50MP + 2MP + 2MP,50,3,8,1,Android v12,4,Budget,Good
+lava,Lava Yuva 2,6999,62,0,0,0,Unisoc T606,unisoc,8,2,5000,1,10,3,64,6.5,1600x720,90,Water Drop Notch,13MP,13,2,5,1,Android v12,3,Budget,Average
+infinix,Infinix Smart 7 ,7499,65,0,0,0,Spreadtrum SC9863A1,spreadtrum,8,1.6,6000,0,39,4,128,6.6,720x1612,120,Punch Hole,13MP,13,2,5,1,Android v12,3,Budget,Average
